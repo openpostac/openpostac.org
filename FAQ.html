@@ -11,7 +11,7 @@
 
 
 
-<title>Open Post Academics</title>
+<title>Frequently Asked Questions</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -260,6 +263,90 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -267,6 +354,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -284,13 +381,10 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="criteria.html">Criteria</a>
+  <a href="FAQ.html">FAQ</a>
 </li>
 <li>
   <a href="curriculum.html">Curriculum</a>
-</li>
-<li>
-  <a href="FAQ.html">FAQ</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -304,38 +398,75 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Open Post Academics</h1>
+<h1 class="title toc-ignore">Frequently Asked Questions</h1>
 
 </div>
 
 
-<p><img src="images/BD_FLAME_Header.jpg" width="700px"></p>
-<p>This website is an introduction to OPA - the Open Post Academic Mentorship Program which is being incubated through the <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/">Mozilla Open Leaders program</a>.</p>
-<p>We are putting together materials for this program for launch in January 2020.</p>
-<div id="purpose" class="section level3">
-<h3>Purpose</h3>
-<p>To empower people with a PhD to share their knowledge and skills more openly.</p>
+<div id="participants" class="section level2">
+<h2>Participants</h2>
+<div id="currently-in-the-academy" class="section level3">
+<h3>Currently in the Academy</h3>
+<p>Q: I’m currently working in the academy (e.g. an adjunct, assistant professor, visiting professor or postdoc) and/or I work in an academic adjacent job (e.g. staff position or grant-funded position) and/or I’ve applied for a job in the academy that I might get. Am I still eligible to apply to be in OPA?</p>
+<p>A: Yes. This program will be best for people who are strongly considering a career outside of the academy, but we welcome folks who currently inside the academic system and who are thinking about leaving. We do not require that you have left academia to do this program.</p>
 </div>
-<div id="objectives" class="section level3">
-<h3>Objectives</h3>
-<ul>
-<li>To expand the network of participants to more people outside of academia</li>
-<li>For participants to understand their skill set and how to apply those abilities to projects outside of academia.</li>
-<li>To create a project that shares those skills openly.</li>
-</ul>
+<div id="not-in-humanities-or-social-sciences" class="section level3">
+<h3>Not in Humanities or Social Sciences</h3>
+<p>Q: My degree is not in the social sciences or humanities, can I apply for OPA?</p>
+<p>A: For the initial round, we are limiting applications to the social science and humanities fields broadly defined. If your field is interdisciplinary within the social sciences/humanities such as American Studies or Health Policy you are welcome to apply. Our main reason for limiting the applications is so that we can find enough mentors to support you. If you are from the STEM fields, please sign up for our info list, in the future we may expand to those disciplines.</p>
 </div>
-<div id="are-you-interested" class="section level3">
-<h3>Are you interested?</h3>
-<p>If you are interested in becoming a mentor, a part of the expert pool or a participant, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4bJko81Z9__AQ1aq7zMA5w3QQckwnXLHc_rLxluNlHhWsLA/viewform?usp=sf_link">fill out this short survey</a> and I’ll be in touch with more information.</p>
-<p>I am also looking for as many resources as I can find for how to do open scholarship and open science/humanities. Please share them!</p>
-<div id="who-is-this" class="section level4">
-<h4>Who is this?</h4>
-<p>Hi! I’m <a href="https://bethduckles.com/">Beth</a> I run the <a href="https://www.postacathenas.com/">Athenas</a>. Email is my first name @ my lastname dot org. Also find me on <a href="https://github.com/bduckles">Github</a></p>
+<div id="i-dont-know-anything-about-openness." class="section level3">
+<h3>I don’t know anything about Openness.</h3>
+<p>Q: I don’t know a lot about open source programs or even really what openness means. I don’t understand what GitHub is and I have no experience coding or developing software. Can I still be a part of this?</p>
+<p>A: Yes! You do not need any previous experience of having worked openly to be a part of this program. There is no requirement that you be able to code or develop software. We’re going to talk a lot in the program about what openness is and how to apply it to your work and the next steps of your career. It’s not just about code!</p>
+</div>
+<div id="i-dont-have-a-phd." class="section level3">
+<h3>I don’t have a PhD.</h3>
+<p>Q: My field does not have Ph.Ds or doctorates. Can I still apply?</p>
+<p>A: If you have the terminal degree in your field, you are welcome to apply.</p>
+</div>
+<div id="i-dont-live-in-the-united-states." class="section level3">
+<h3>I don’t live in the United States.</h3>
+<p>Q: I live in ___ country, can I do this program?</p>
+<p>A: Yes! Please note that organizers are located in the Pacific Time in the US (Pacific Standard Time) Workshops will be held [[TIME AND DATE]] Please check to make sure that this timing will work with your time zone.</p>
+</div>
+<div id="what-technical-requirements-do-i-need" class="section level3">
+<h3>What technical requirements do I need?</h3>
+<p>Q: What technical requirements do I need to do this program?</p>
+<p>A: You need to have access to internet for our conference calls on [[TIME AND DATE]] as well as some time with a computer to finish assignments.</p>
+</div>
+<div id="what-language-is-this-in" class="section level3">
+<h3>What language is this in?</h3>
+<p>Q: What language will this be in?</p>
+<p>A: All materials and activities will be in English.</p>
+</div>
+<div id="will-my-name-be-made-public-if-i-am-selected-as-a-participant" class="section level3">
+<h3>Will my name be made public if I am selected as a participant?</h3>
+<p>Q: If I’m in this program will my participation be public?</p>
+<p>A: While I will be sharing the the names and information about participants in the program on the web, there will always be an option for participants to be anonymous and not share their information publicly.</p>
+</div>
+</div>
+<div id="mentors" class="section level2">
+<h2>Mentors</h2>
+<div id="multiple-mentees" class="section level3">
+<h3>Multiple Mentees?</h3>
+<p>Q: How many participants can I support as a mentor?</p>
+<p>A: We are very grateful for your time and energy. Depending on need and matching, you can choose to mentor either one or two participants.</p>
+</div>
+</div>
+<div id="experts" class="section level2">
+<h2>Experts</h2>
+<div id="not-much-time" class="section level3">
+<h3>Not much time?</h3>
+<p>Q: I’d really like to help, but my time is pretty tight these days. I will only be able to do one or two informational interviews with participants. Is that enough?</p>
+<p>A: Absolutely. You’re welcome to do informational interviews as they fit in your schedule and say no when time is too tight for you.</p>
 </div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 

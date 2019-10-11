@@ -1,0 +1,53 @@
+---
+title: "Curriculum"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+## Week 1 - Introduction to OPA 
+- What is this program about?
+- Who are we and what do we bring into this adventure? 
+- What are our goals?
+
+## Week 2 - Working openly
+- Why work openly? 
+- What tools exist for open scholarship?
+- How do open licenses work?
+- How can we use social media tools for our benefit?
+
+## Week 3 - Translating Skills
+- What skills do we already posess? 
+- How can we translate these skills into new fields?
+- What is the language we can use to talk about our skills? 
+
+## Week 4 - Networking
+- How can we make more connections to people outside of academia?
+- But I'm an introvert/hate being skeezy/don't want to bug people. 
+- What is an informational interview for?
+
+## Week 5 - Finding Purpose 
+- What problems need solving? 
+- What matters to me?
+- What are the pain points we can see in the world around us?
+- How can we help? 
+
+## Week 6 - Changing Identities
+- Who are you outside of the academy? 
+- How do we respond to the question "What do you do?" when we don't know?
+- What if I'm overqualified?
+
+## Week 7 - Knowledge Sharing
+- What tools do we have to share our knowledge?
+- What could we develop that would help us find more ways to share our knowledge?
+- What does scholarship and being a scholar look like outside of the academy? 
+
+## Week 8 - Making a Contribution 
+- Sharing our final projects 
+- What will we continue to contribute as we go forward? 
+
+
+
+

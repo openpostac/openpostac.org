@@ -11,7 +11,7 @@
 
 
 
-<title>First observations</title>
+<title>Curriculum</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -260,6 +263,90 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -267,6 +354,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -284,16 +381,10 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="first_observations.html">First Observations</a>
+  <a href="FAQ.html">FAQ</a>
 </li>
 <li>
-  <a href="basic_workflow.html">Basic Workflow</a>
-</li>
-<li>
-  <a href="getting_sophisticated.html">Getting Sophisticated</a>
-</li>
-<li>
-  <a href="your_turn.html">Your Turn</a>
+  <a href="curriculum.html">Curriculum</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -307,58 +398,80 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">First observations</h1>
+<h1 class="title toc-ignore">Curriculum</h1>
 
 </div>
 
 
-<p>With this tutorial, we have a working example website that we will explore together. We’ll learn a few rules and look for patterns to get an understanding of what things do. And you can continue to use this website as a reference after the tutorial, along with <a href="http://rmarkdown.rstudio.com/rmarkdown_websites.html"><strong>RStudio’s instructions for R Markdown websites</strong></a>.</p>
-<p>We’ll start our exploration online looking at the website architecture, then we’ll clone the repo to our local computers. Locally, we will explore further by going back and forth between the R Markdown editor and built webpages, and make modifications. Pushing to Github will make our modifications live!</p>
-<hr />
-<div id="exploring-online" class="section level2">
-<h2>Exploring online</h2>
-<p><br></p>
-<!---this is an html comment that works in Markdown --->
-<!--- I use the <br> html tag to force carriage returns in the text--->
-<div id="the-website-itself" class="section level3">
-<h3>The website itself</h3>
-<p>This website has 5 pages:</p>
+<div id="week-1---introduction-to-opa" class="section level2">
+<h2>Week 1 - Introduction to OPA</h2>
 <ul>
-<li>Home</li>
-<li>First Observations</li>
-<li>Basic Workflow</li>
-<li>Getting Sophisticated</li>
-<li>Your Turn</li>
+<li>What is this program about?</li>
+<li>Who are we and what do we bring into this adventure?</li>
+<li>What are our goals?</li>
 </ul>
-<p><code>github.io</code> means that there is a Github repo behind this website, and we also know the username and repo name:</p>
-<p><strong><a href="http://jules32.github.io/rmarkdown-website-tutorial" class="uri">http://jules32.github.io/rmarkdown-website-tutorial</a></strong> &lt;=&gt; <strong><a href="https://github.com/jules32/rmarkdown-website-tutorial" class="uri">https://github.com/jules32/rmarkdown-website-tutorial</a></strong></p>
-<p>(Note: you can have github websites point to different urls if you don’t want the <code>github.io</code>.)</p>
-<p><br></p>
 </div>
-<div id="the-websites-repo" class="section level3">
-<h3>The website’s repo</h3>
-<p>Let’s go to <strong><a href="https://github.com/jules32/rmarkdown-website-tutorial" class="uri">https://github.com/jules32/rmarkdown-website-tutorial</a></strong>.</p>
-<p><strong>First, note the <code>gh-pages</code> branch</strong> - this is critical for building free webpages. You can usually name branches whatever you want, but the <code>gh-pages</code> name means it can be built as a website. <a href="https://help.github.com/articles/setting-the-default-branch/">I set it as my default branch</a>.</p>
-<p><img src="images/gh-pages.png" /></p>
-<p><br></p>
-<p><strong>Now let’s look at the filenames</strong>. We can recognize the names of the webpages we’ve seen, and there is also a <code>_site.yml</code> file, which is the website’s configuration file. The simplest website possible would have 2 files only: <code>_site.yml</code> and <code>index.Rmd</code></p>
-<p><img src="https://docs.google.com/drawings/d/1jnXfeJ3i-fwd-t49S5FyeMAX3cJSoCYbyZLLTqFZd7w/pub?w=960&amp;h=720" /></p>
-<p><br></p>
+<div id="week-2---working-openly" class="section level2">
+<h2>Week 2 - Working openly</h2>
+<ul>
+<li>Why work openly?</li>
+<li>What tools exist for open scholarship?</li>
+<li>How can we use social media tools for our benefit?</li>
+</ul>
 </div>
+<div id="week-3---translating-skills" class="section level2">
+<h2>Week 3 - Translating Skills</h2>
+<ul>
+<li>What skills do we already posess?</li>
+<li>How can we translate these skills into new fields?</li>
+<li>What is the language we can use to talk about our skills?</li>
+</ul>
 </div>
-<div id="fork-to-your-account-clone-to-your-computer" class="section level2">
-<h2>Fork to your account, clone to your computer</h2>
-<p>Let’s start digging deeper and playing with this.</p>
-<ol style="list-style-type: decimal">
-<li><p>Fork the <a href="https://github.com/jules32/rmarkdown-website-tutorial">jules32/rmarkdown-website-tutorial</a> repo into your own account.</p></li>
-<li><p>Edit the URL for the website by replacing <code>jules32</code> with your GitHub username</p></li>
-<li><p>Clone to your local computer using RStudio (preferred) the <a href="https://desktop.github.com/">Desktop App</a>, or the command line.</p></li>
-</ol>
-<p><img src="https://docs.google.com/drawings/d/1yy2VFQy4QqxfOzt-XtTSNA91qoCI7jPo0ob7Pm89SBg/pub?w=960&amp;h=720" /></p>
+<div id="week-4---networking" class="section level2">
+<h2>Week 4 - Networking</h2>
+<ul>
+<li>How can we make more connections to people outside of academia?</li>
+<li>But I’m an introvert/hate being skeezy/don’t want to bug people.</li>
+<li>What is an informational interview for?</li>
+</ul>
+</div>
+<div id="week-5---finding-purpose" class="section level2">
+<h2>Week 5 - Finding Purpose</h2>
+<ul>
+<li>What problems need solving?</li>
+<li>What matters to me?</li>
+<li>What are the pain points we can see in the world around us?</li>
+<li>How can we help?</li>
+</ul>
+</div>
+<div id="week-6---changing-identities" class="section level2">
+<h2>Week 6 - Changing Identities</h2>
+<ul>
+<li>Who are you outside of the academy?</li>
+<li>How do we respond to the question “What do you do?” when we don’t know?</li>
+<li>What if I’m overqualified?</li>
+</ul>
+</div>
+<div id="week-7---knowledge-sharing" class="section level2">
+<h2>Week 7 - Knowledge Sharing</h2>
+<ul>
+<li>What tools do we have to share our knowledge?</li>
+<li>What could we develop that would help us find more ways to share our knowledge?</li>
+<li>What does scholarship and being a scholar look like outside of the academy?</li>
+</ul>
+</div>
+<div id="week-8---making-a-contribution" class="section level2">
+<h2>Week 8 - Making a Contribution</h2>
+<ul>
+<li>Sharing our final projects</li>
+<li>What will we continue to contribute as we go forward?</li>
+</ul>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 

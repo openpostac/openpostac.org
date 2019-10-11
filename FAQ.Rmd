@@ -1,0 +1,73 @@
+---
+title: "Frequently Asked Questions"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Participants
+
+### What is this open project?
+Q: I'm not sure what you mean by an open project, could you explain?  
+A: An open project for this program is where you share your knowledge and expertise in an open manner. 
+
+Examples: Writing an op-ed, creating a portfolio piece, researching a short white paper/research brief, making a website, creating a database, filming a short video, recording a podcast, working on an open source coding project, contributing to open educational resources or other creative work.
+
+This project is meant to be a minimum viable product, it does not have to be complex. We will support you in doing this project by encouraging you to make it concrete and doable.     
+
+### I don’t know anything about penness.
+Q: I don’t know a lot about open source programs or even really what openness means. I don’t understand what GitHub is and I have no experience coding or developing software. Can I still be a part of this?  
+
+A: Yes! You do not need any previous experience of having worked openly to be a part of this program. There is no requirement that you be able to code or develop software. We’re going to talk a lot in the program about what openness is and how to apply it to your work and the next steps of your career. It’s not just about code! 
+
+### Currently in the Academy
+Q: I’m currently working in the academy (e.g. an adjunct, assistant professor, visiting professor or postdoc) and/or I work in an academic adjacent job (e.g. staff position or grant-funded position) and/or I’ve applied for a job in the academy that I might get. Am I still eligible to apply to be in OPA? 
+
+A: Yes. This program will be best for people who are strongly considering a career outside of the academy, but we welcome folks who currently inside the academic system and who are thinking about leaving. We do not require that you have left academia to do this program. 
+
+### Not in Humanities or Social Sciences
+Q: My degree is not in the social sciences or humanities, can I apply for OPA?  
+
+A: For the initial round, we are limiting applications to the social science and humanities fields broadly defined. If your field is interdisciplinary within the social sciences/humanities such as American Studies or Health Policy you are welcome to apply. Our main reason for limiting the applications is so that we can find enough mentors to support you. If you are from the STEM fields, please sign up for our info list, in the future we may expand to those disciplines. 
+
+
+
+### I don’t have a PhD. 
+Q: My field does not have Ph.Ds or doctorates. Can I still apply?  
+
+A: If you have the terminal degree in your field, you are welcome to apply. 
+
+### I don't live in the United States. 
+Q: I live in ___ country, can I do this program?   
+
+A: Yes! Please note that organizers are located in the Pacific Time in the US (Pacific Standard Time) Workshops will be held [[TIME AND DATE]] Please check to make sure that this timing will work with your time zone. 
+
+### What technical requirements do I need?
+Q: What technical requirements do I need to do this program?   
+
+A: You need to have access to internet for our conference calls on [[TIME AND DATE]] as well as some time with a computer to finish assignments. 
+
+### What language is this in?
+Q: What language will this be in?  
+
+A: All materials and activities will be in English. 
+
+### Will my name be made public if I am selected as a participant?
+Q: If I’m in this program will my participation be public?  
+
+A: While I will be sharing the the names and information about participants in the program on the web, there will always be an option for participants to be anonymous and not share their information publicly. 
+
+## Mentors 
+
+### Multiple Mentees?
+Q: How many participants can I support as a mentor?  
+
+A: We are very grateful for your time and energy. Depending on need and matching, you can choose to mentor either one or two participants.  
+
+## Experts 
+
+### Not much time?
+Q: I'd really like to help, but my time is pretty tight these days. I will only be able to do one or two informational interviews with participants. Is that enough?  
+
+A: Absolutely. You're welcome to do informational interviews as they fit in your schedule and say no when time is too tight for you. 
