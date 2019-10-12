@@ -13,16 +13,17 @@ Q: I'm not sure what you mean by an "open project", could you explain?
 A: An open project for this program is where you share your knowledge and expertise in a manner that makes it available to the public. We will talk about what that means, but you should apply with an idea of what you would like to do as a project. 
 
 Here are some ideas of what you might do as an open project:
-- Write an op-ed
-- Create a portfolio piece
-- Research a short white paper/ brief
-- Make a website
-- Create a database
-- Film a short video
-- Record a podcast
-- Work on an open source coding project
-- Contribute to open educational resources 
-- Creative work
+
+* Write an op-ed
+* Create a portfolio piece
+* Research a short white paper/brief
+* Make a website
+* Create a database
+* Film a short video
+* Record a podcast
+* Work on an open source coding project
+* Contribute to open educational resources 
+* Creative work
 
 This project is meant to be a minimum viable product, it does not have to be complex. We will encourage you to make this project concrete and doable.     
 
@@ -59,14 +60,14 @@ Q: What technical requirements do I need to do this program?
 A: You need to have access to internet for our conference calls on [[TIME AND DATE]] as well as some time with a computer to finish assignments. 
 
 ### What language is this in?
-Q: What language will this be in?  
+Q: What language will be used for this program?  
 
 A: All materials and activities will be in English. 
 
 ### Will my name be made public if I am selected as a participant?
 Q: If I’m in this program will my participation be public?  
 
-A: While I will be sharing the the names and information about participants in the program on the web, there will always be an option for participants to be anonymous and not share their information publicly. 
+A: While I will be sharing the the names and information about participants in the program on the web, there will be an option for participants to be anonymous and not share their information publicly. I encourage you to make that clear early on in the process. 
 
 ## Mentors 
 
