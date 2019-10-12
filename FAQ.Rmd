@@ -10,6 +10,7 @@ output:
 
 ### What is this open project?
 Q: I'm not sure what you mean by an "open project", could you explain?  
+
 A: An open project for this program is where you share your knowledge and expertise in a manner that makes it available to the public. We will talk about what that means, but you should apply with an idea of what you would like to do as a project. 
 
 Here are some ideas of what you might do as an open project:
@@ -25,14 +26,14 @@ Here are some ideas of what you might do as an open project:
 * Contribute to open educational resources 
 * Creative work
 
-This project is meant to be a minimum viable product, it does not have to be complex. We will encourage you to make this project concrete and doable.     
+This project is meant to be a minimum viable product, it does not have to be complicated or involved. We will encourage you to make this project concrete and doable.     
 
-### I don’t know anything about openness.
+### Openness
 Q: I don’t know a lot about open source programs or even really what openness means. I don’t understand what GitHub is and I have no experience coding or developing software. Can I still be a part of this?  
 
 A: Yes! You do not need any previous experience of having worked openly to be a part of this program. There is no requirement that you be able to code or develop software. We’re going to talk a lot in the program about what openness is and how to apply it to your work and the next steps of your career. 
 
-### Currently in the Academy
+### In the Academy
 Q: I’m currently working in the academy (e.g. an adjunct, assistant professor, visiting professor or postdoc) and/or I work in an academic adjacent job (e.g. staff position or grant-funded position) and/or I’ve applied for a job in the academy that I might get. Am I still eligible to apply to be in OPA? 
 
 A: Yes. This program will be best for people who are strongly considering a career outside of the academy, but we welcome folks who currently inside the academic system and who are thinking about leaving. We do not require that you have left academia to do this program. 
@@ -40,8 +41,9 @@ A: Yes. This program will be best for people who are strongly considering a care
 ### Not in Humanities or Social Sciences
 Q: My degree is not in the social sciences or humanities, can I apply for OPA?  
 
-A: For the initial round, we are limiting applications to the social science and humanities fields broadly defined. If your field is interdisciplinary within the social sciences/humanities such as American Studies or Health Policy you are welcome to apply. Our main reason for limiting the applications is so that we can find enough mentors to support you. If you are from the STEM fields, please sign up for our info list, in the future we may expand to those disciplines. 
+A: For the initial round, we are limiting applications for participants to the social science and humanities fields broadly defined. If your field is interdisciplinary within the social sciences/humanities such as American Studies or Health Policy you are welcome to apply. Our main reason for limiting the applications is so that we can find enough mentors to support you. 
 
+If you are from the STEM fields and do not meet the criteria for being a mentor or an expert, please sign up for our email list. In the future we may expand to those disciplines. 
 
 
 ### I don’t have a PhD. 
@@ -71,15 +73,20 @@ A: While I will be sharing the the names and information about participants in t
 
 ## Mentors 
 
-### Multiple Mentees?
-Q: How many participants can I support as a mentor?  
+### Not in Humanities or Social Sciences as a Mentor
+Q: My degree is not in the social sciences or humanities, can I mentor for OPA participants?  
 
-A: Depending on need and matching, you can choose to mentor either one or two participants.  
+A: Yes! Our aim is to match up participants with folks outside of academia who can broaden their thoughts about what is possible. If you feel you could do that for someone with a PhD in the social sciences and humanities, please apply as a mentor. 
 
 ### In and out of Academia 
 Q: I've been both in and out of academia. At the moment I am inside the academy but still believe I have insights to offer. Can I still be a mentor or expert? 
 
 A: Yes. As long as you have spent at least two years with a PhD outside of the academy, and you are able to connect the participant to people beyond higher education, we'd be interested in your application. 
+
+### Multiple Mentees?
+Q: How many participants can I support as a mentor?  
+
+A: Depending on need and matching, you can choose to mentor either one or two participants.  
 
 ### Openness? 
 Q: I'm a little fuzzy on the open part of Open Post Academics but I do meet the rest of the criteria. Can I still help? 
@@ -88,9 +95,14 @@ A: We will share with you all of the resources that the participants will get ab
 
 ## Experts 
 
+### Not in Humanities or Social Sciences as an Expert
+Q: My degree is not in the social sciences or humanities, can I be a part of the expert pool for OPA participants?  
+
+A: Yes! Our aim is to match up participants with folks outside of academia who can broaden their thoughts about what is possible. If you feel you could do that via an informational interview for someone with a PhD in the social sciences and humanities, please apply to join the mentor pool. 
+
 ### Not much time?
 Q: I'd really like to help, but my time is pretty tight these days. I will only be able to do one or two informational interviews with participants. Is that enough?  
 
-A: Absolutely. You're welcome to do informational interviews as they fit in your schedule and say no when time is too tight for you. 
+A: Absolutely. You're welcome to do informational interviews as they fit in your schedule. We respect and are grateful for the time you have.  
 
 
