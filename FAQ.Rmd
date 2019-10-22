@@ -8,7 +8,7 @@ output:
 
 ## Participants
 
-### What is this open project?
+### What is an open project
 Q: I'm not sure what you mean by an "open project", could you explain?  
 
 A: An open project for this program is where you share your knowledge and expertise in a manner that makes it available to the public. We will talk about what that means, but you should apply with an idea of what you would like to do as a project. 
@@ -43,37 +43,36 @@ Q: My degree is not in the social sciences or humanities, can I apply for OPA?
 
 A: For the initial round, we are limiting applications for participants to the social science and humanities fields broadly defined. If your field is interdisciplinary within the social sciences/humanities such as American Studies or Health Policy you are welcome to apply. Our main reason for limiting the applications is so that we can find enough mentors to support you. 
 
-If you are from the STEM fields and do not meet the criteria for being a mentor or an expert, please sign up for our email list. In the future we may expand to those disciplines. 
+If you are from the STEM fields and do not meet the criteria for being a mentor or an expert, please sign up for our [email list](https://mailchi.mp/78b68c7561e2/opa). In the future we may expand to those disciplines. 
 
-
-### I don’t have a PhD. 
+### Field doesn’t have PhDs
 Q: My field does not have Ph.Ds or doctorates. Can I still apply?  
 
 A: If you have the terminal degree in your field, you are welcome to apply. 
 
-### I don't live in the United States. 
-Q: I live in ___ country, can I do this program?   
-
-A: Yes! Please note that organizers are located in the Pacific Time in the US (Pacific Standard Time) Workshops will be held [[TIME AND DATE]] Please check to make sure that this timing will work with your time zone. 
-
 ### What technical requirements do I need?
 Q: What technical requirements do I need to do this program?   
 
-A: You need to have access to internet for our conference calls on [[TIME AND DATE]] as well as some time with a computer to finish assignments. 
+A: You need to have access to internet for our conference calls as well as a computer to finish assignments. 
+
+### I don't live in the United States. 
+Q: Can I be a participant or mentor if I am not in the United States?   
+
+A: Yes! Please note that organizers are located in the Pacific Time in the US (Pacific Standard Time) Workshops will be held [[TIME AND DATE]] Please check to make sure that this timing will work with your time zone. 
 
 ### What language is this in?
 Q: What language will be used for this program?  
 
 A: All materials and activities will be in English. 
 
-### Will my name be made public if I am selected as a participant?
+### Identity Public
 Q: If I’m in this program will my participation be public?  
 
-A: While I will be sharing the the names and information about participants in the program on the web, there will be an option for participants to be anonymous and not share their information publicly. I encourage you to make that clear early on in the process. 
+A: While I will be sharing the the names and information about participants in the program on the web, there will be an option for participants to be anonymous and not share their information publicly. 
 
 ## Mentors 
 
-### Not in Humanities or Social Sciences as a Mentor
+### Not in Humanities or Social Sciences
 Q: My degree is not in the social sciences or humanities, can I mentor for OPA participants?  
 
 A: Yes! Our aim is to match up participants with folks outside of academia who can broaden their thoughts about what is possible. If you feel you could do that for someone with a PhD in the social sciences and humanities, please apply as a mentor. 
