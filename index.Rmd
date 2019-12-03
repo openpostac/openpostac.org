@@ -9,9 +9,9 @@ output:
 
 This website is an introduction to OPA - the Open Post Academic Mentorship Program which is incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/).  
 
-<center>The first cohort of the program will launch in January 2020.</center> 
+<center>The first cohort of the program is launching in January 2020.</center> 
 
-<center>**Applications will be accepted until November 30th**</center>   
+<center>**Applications have closed.**</center>   
 
 <br> 
 Make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about the program!   
@@ -26,21 +26,10 @@ To empower people with a PhD to share their knowledge and skills more openly.
 
 
 ### Are you interested? 
-If you are interested in becoming an OPA participant, mentor or a part of the expert pool, please take a look at the [criteria](https://openpostac.org/criteria.html) for each and apply for the one that fits your needs most.  
-
-[OPA Participant Application](https://forms.gle/rL7MwsQpoqm4R3tCA)
-
-[Mentor Application](https://forms.gle/Zow9VA42ydJDpXPV7)
+If you are interested in supporting the 2020 cohort by sharing your expertise with them, applications are still open for joining our expert pool. These are folks who offer to do informational interviews with OPA participants.  
 
 [Expert Pool](https://forms.gle/2xCpSvxpha3poMJFA)
 
-If you just want to keep being updated about the program, please [sign up to receive updates](https://mailchi.mp/2932ae7328f2/opa). 
+If you want to be updated about the program, please [sign up to receive updates](https://mailchi.mp/2932ae7328f2/opa). 
 
-We will also be hosting webinars where you can learn more information about the program and ask any questions not covered by the [FAQ](https://openpostac.org/FAQ.html). Sign up for the best time for you! 
-
-* [Thursday, Nov 21, 2019 12:00 PM PST](https://mailchi.mp/7c81e4385624/8saizbj980)
-* [Monday, Nov 25, 2019 01:00 PM PST](https://mailchi.mp/45e6bb95af40/dnesklk446 )
-
-All times are Pacific Standard Time for the US and Canada: UTC-8 and the event will last one hour with plenty of time for Q&A. 
-
-If you'd like to look at the slides for the webinar, they can be found [here.](https://docs.google.com/presentation/d/16uovImiIqoZQmWzfjmc2Npcef5XZ_gd-6Oec65_uZpc/edit?usp=sharing)
+Want more information? Some slides we used for the webinar to talk about the pogram are [here.](https://docs.google.com/presentation/d/16uovImiIqoZQmWzfjmc2Npcef5XZ_gd-6Oec65_uZpc/edit?usp=sharing)
