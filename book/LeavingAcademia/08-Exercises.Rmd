@@ -1,0 +1,77 @@
+---
+title: "08-Exercises"
+output: html_document
+---
+
+# Exercises {-}
+
+This is a spot where we've put all of the exercises that we've used in this workshop (and a couple we haven't) in one place. 
+
+
+
+## Broadening The Story {-}
+
+In this exercise, we're working with what has happened to us and asking some questions to examine our experiences more broadly. We want to seek a wider understanding of what happened with regard to the institutions and fields that we are a part of and start to ask these institutions and structures to be more accountable for what occurred. 
+
+### 1) Describe what happened to you.  
+Describe something that happened that still hurts. Write out for yourself what it looked like from your perspective. Really let yourself take some time to write out the grievance and all the players in your story. 
+
+If your story is too raw for you and you'd still like some practice at broadening a story. It is sometimes easier to look at other people's stories instead of your own. Below are three examples that you can use for discussion. 
+
+### 2) Who else might have experienced something similar?
+Do you know of anyone else who has experienced something similar to what you have? If the answer is yes, then describe who it is. How are they similar to you? In what ways did they experience what you experienced?
+
+If you don't know anyone who has experienced something similar, start by considering if it's theoretically possible for others to have had something similar happen to them. If so, try to imagine who might be able to relate (yes, you are using your imagination here). 
+
+Consider generalizing to a group of people. Could you imagine other women experiencing something similar at a different university? Would other junior faculty members understand this? Are there other people who are invisibly disabled who would understand? Are there others in your field who could understand your challenge?  
+
+This is also a good time to look for first person accounts of such issues and in particular to see if there is any Quit Lit that is similar. Start with the resources section in this lesson and go through to see which of them is most closely related to what you experienced. 
+
+### 3) Who has power and who does not? 
+In looking at your story, now it's time to consider the power structure. Is there a power imbalance here? Where did you have power? Where did someone have power over you? What were the things that were out of your control? Who has recourse? Who does not have recourse?  
+
+Did the power structure have any influence on what happened? Would there have been a different outcome if you had had more power or a different kind of power?  Consider that there are [different types of power](https://en.wikipedia.org/wiki/French_and_Raven%27s_bases_of_power). [Original article with 5 power types here](http://www.communicationcache.com/uploads/1/0/8/8/10887248/the_bases_of_social_power_-_chapter_20_-_1959.pdf)  What kinds of power did you have? What kinds of power were used over you? 
+
+### 4) What role did the institution(s) play in your story? 
+For the next question it's helpful to think through different types of institutions that might be involved and make sure we're thinking past just the university where you went to school or were employed. Consider also: your disciplinary area of study and sub disciplinary groups, the state, the academic publishing industry, the journal system, the student loan and banking industry, the Greek System, your alma mater, the Ivies, athletics, alumni networks, the board of directors, the academic community as a whole, heteronormativity, privilege, patriarchal structures, the boys network, 
+
+What did the institution actually do (or not do)? Did anyone suggest that the institution would do something? What did they say? What actually happened? Was the power difference upheld by an institution? How? Are there hypocrisies in the actual actions taken (or not taken) by the institution? 
+
+### 5) What cultural beliefs supports those with power in your story?
+What are the beliefs in these institutions that you named above, or broader beliefs that may have led to supporting what happened to you? Cultural beliefs can be thought of as "the way we do things here" Some examples of cultural beliefs include statements like: 
+
+- People who go to Ivy League schools/ have tenure/have Ph.D's are smarter.  
+- Employees will stay in their position - no matter how precarious - if the school is prestigious/they have tenure/they get enough money.
+- Graduate students who are parents/women/minorities/first generation don't make it through the program.
+- Women are better at note taking/committee or service work/advising/mentorship/teaching than men. 
+- Without a successful grant/published book/five articles, you won't get tenure. 
+- If you don't succeed on the job market after two years/a Visiting Position/not getting an offer, you won't get a job. 
+- There's no reason to hire an applicant if they: are a trailing spouse/haven't gotten a tenure track job after two years/haven't published a solo article. 
+
+### 6) How does your reflection on these questions lead you to retell the story you told at the beginning?
+What does a broader perspective add to your understanding of what happened to you?
+
+### Extra Credit: Fictional Stories 
+
+It can sometimes help to do the Broadening the Story exercise on someone else's story. Particularly if you're having trouble figuring out how to do this with your own story, start by working on some fictional stories to get your mind around the task. (CW: assault) 
+
+1) Jane is in her first year of teaching as a visiting assistant professor at a prestigious school she'd love to stay at. She was on the job market and gets an offer from a less prestigious college. She isn't sure if she wants to take it. Ideally, she'd stay where she is and get a tenure track position, something the dean has hinted at. 
+
+He said he a little while ago he could fund her for another year and is looking for the resources for a line for her. She hasn't received a contract in the mail from him for the next year, though he claims that's not a big deal. 
+
+She tells him she needs a contract before the decision is requested by the university that wants to hire her. He doesn't respond. When she takes the other job, all of her colleagues including the dean are astonished that she would leave for a "less desirable" school. 
+
+2) Marcia is a post doc in a lab and she has been increasingly concerned about her advisor's behavior with the international graduate students that depend on their status in the department for their visa. The advisor has made comments in lab meetings about "deportation" and joked that he can just take back their funding if they don't do their work as quickly as he wants it done. 
+
+When one grad student wanted to go home for a family funeral, the lab director made comments about her going on "vacation" and that people don't just get time off any time they want it. 
+
+Marcia has gone to the dean to talk about her advisor's behavior. He listens and says that he's friends with the professor and will talk to him. A week after talking to the dean, her advisor says to the lab that someone is "out to get him" and he thinks it's one of the international students. 
+
+3) Jake is a professor in his first year and he often travels to the city nearby to get some work done, see some friends and go on dates. He hasn't come out to any of his colleagues and doesn't wish to. 
+
+On a night when he's out with a date with a man, he sees a female colleague who seems shocked at seeing him kiss a man. She exclaims that she didn't know he was gay. He considers himself bisexual but does not wish to have that conversation with his colleague, nor for his sexuality to be a part of his work environment. When he returns to campus, a colleague says something to him which makes him realize she has outed him without his consent. 
+
+
+Use these fictional examples to go through the Broadening the Story questions. How can you recontextualize each of these stories?
+
+

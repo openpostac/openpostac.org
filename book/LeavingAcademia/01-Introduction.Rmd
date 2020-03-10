@@ -1,0 +1,89 @@
+---
+title: "01-Introduction"
+output: html_document
+---
+
+# Introduction to OPA {-}
+
+- What is this program about?
+- What are our goals?
+
+
+## Openness as a Mindset {-}
+Openness is a mindset 
+**Three principles for doing open work [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/framework/#what-is-open)** 
+
+Openness as a mindset means:  
+
+- We can share ideas that matter to us and make them accessible.
+- We can invite people in who might not otherwise be invited to participate. 
+- We don't have to be interested in science, coding or technology to be able to use these principles. 
+- We don't have to be open to everyone everywhere. It matters that we think through things like privacy, ownership and intellectual property.  
+
+## Your Open Post Ac Project {-}
+Your open project for this program is a way to share your skills in a way that can lead people back to you. 
+
+This can be incredibly helpful for post acs as it helps us demonstrate what we can do, gives us new networks, and helps share your skills and abilities. 
+
+This can lead to getting a job/finding new clients. I don't quite know how it works and I can't promise you that it will happen to you. But, I do think it helps.  
+
+I want to encourage you to consider doing an open project that might seem "easy" for you. You might be surprised at how helpful others might find from what you have already done. 
+
+**Some ideas:** 
+
+- Share your teaching notes for the class you loved teaching. 
+- Put one of your favorite teaching tools or classroom experiences online.  
+- Share a paper that never got published in an open repository.
+- Make the notes or your slides from a talk that you gave available. 
+-Take notes from your research/lecture that you love and turn it into an op-ed or a short article. 
+-Put your data in a GitHub repo and make it available for other researchers. 
+
+It is very important that you DO something for this program 
+If you're feeling overwhelmed, make the project smaller. More doable. If you're excited, do one thing first. Then do the second thing. 
+
+
+## Activity: Sources of Power {-} 
+I'd like to have a discussion about sources of power (descriptions here). Take a look at the discussion of these different forms of power. Which ones are comfortable for you? Uncomfortable? 
+
+When I considered leaving academia, many of us can feel powerless and without direction. This is a common feeling among post acs and people who are considering leaving. 
+
+I'd like us to question and investigate the assumption of powerlessness by asking ourselves where we do have power and what is available to us where we are now. 
+
+**Sources of Power**  [Descriptions here](https://www.buildingmovement.org/pdf/Sources_of_Power.pdf)
+
+- Personal Power
+- Co-Power
+- Collaborative Power
+- Positional Power
+- Expert Power
+- Cultural Power 
+- Referred Power
+- Obstructive Power
+- Ideological Power
+- Institutional Power
+- Structural Power
+- Transcendent Power
+
+Take a moment to look at the descriptions of these kinds of power and consider: 
+
+- What sources of power do you have access to? 
+- Where do you not have power? 
+- Are there sources of power that are not on this list that matter to you? 
+
+## Resources {-}
+- [For PhD's Seeking Jobs Outside Academia](http://paulboshears.com/2020/01/04/for-phds-seeking-jobs-outside-academia/) - Paul Boshears 
+- [Why it's So Hard to Leave Academe](https://www.chronicle.com/article/Why-It-s-So-Hard-to-Leave/233670) - Debra Erickson 
+
+## Core Resources {-}
+
+There are a lot of resources we will share throughout but these are some of the core resources we've returned to again and again. 
+
+- [Beyond the Professoriate](https://community.beyondprof.com/) 
+- [Duckles, Beth - "What I Wish I Had Known: Post Academic Women and Their Advice for Leaving the Academy"](https://static1.squarespace.com/static/5a0cc397f09ca473053aea14/t/5aa700b071c10baf62f8ea88/1520894128791/What+I+Wish+I+Had+KnownFINAL.pdf)  
+- [Imagine Ph.D.](https://www.imaginephd.com/)
+- [Perel, Greta - "What Happens When Academics Quit? Good Things it Turns Out."](https://www.timeshighereducation.com/blog/what-happens-when-academics-quit-good-things-it-turns-out)
+- [The Professor is In](http://theprofessorisin.com/)
+- [Roostervane](https://roostervane.com/)
+- [Wild Mind Collective](http://www.wildmindcollective.com/) 
+
+

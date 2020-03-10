@@ -9,12 +9,10 @@ output:
 
 This website is an introduction to OPA - the Open Post Academic Mentorship Program which is incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/).  
 
-<center>The first cohort of the program is launching in January 2020.</center> 
-
-<center>**Applications have closed.**</center>   
+<center>The first cohort of the program has launched in January 2020.</center> 
 
 <br> 
-Make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about the program!   
+Make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about the program! That's the best way to keep posted about future cohorts.   
 
 ### Purpose 
 To empower people with a PhD to share their knowledge and skills more openly. 

@@ -1,0 +1,144 @@
+---
+title: "02-Openness"
+output: html_document
+---
+
+# Working Openly {-}
+
+- Why work openly? 
+- What tools exist for open scholarship?
+- How do open licenses work?
+- How can we use social media tools for our benefit?
+
+
+## What is Openness? {-}
+
+**Three principles for doing open work [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/framework/#what-is-open)** 
+
+1. **Understanding:** You make the work accessible and clear.
+
+2. **Sharing:** You make the work easy to adapt, reproduce, and spread.
+
+3. **Participation & Inclusion:** You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant, safe, and sustainable for all.
+
+Open work generally aspires to meet these criteria, but it is not all required. Sometimes we cannot make work understandable to all or we might have a very specific audience. We might not share something fully with everyone, or people might not be able to give their feedback or participate because of legitimate reasons. 
+
+These are aspirations and orientations towards what we create. We don't have to do it perfectly, but to work towards this, or to be oriented towards more openness as much as possible. 
+
+> Openness is a mindset. 
+
+For instance work we might do would NOT meet these criteria and therefore be less open: 
+
+- A scholar publishes in their field using a lot of technical jargon about a community they have worked with. This text is not available publicly for people to read except by paying a publisher a lot of money. The researcher is not responsive to people in the community they studied who have problems with his research. 
+- By contrast, a researcher could publish an easier to read (though still scholarly) article about a community they've worked with and make it available to others via an institutional repository or an Open Access Journal. They could also respond to and even include the community they studied in the writing process. 
+
+### How to Work Openly {-} 
+
+- Make a topic that is otherwise difficult to understand more comprehensible for people who are not experts in your field. 
+- Publish/share/disseminate what you create on the internet 
+- Share it with people who might want/need it and encourage them to use it and give you feedback. 
+- Share it on popular websites, social media or other ways that people can stumble upon it. 
+- Use a creative commons or other appropriate open license so that others can take your work and build on it more. 
+- Ask for people to comment on it and respond to their comments.
+
+**KEY POINT: You do not have to do all of these things to have an open project, choose judiciously what makes the most sense for your project. Openness is an orientation, not a checkbox.** 
+
+The easiest route for this is to do something that will help you make your expertise more understandable, possible to find and to respond to. Consider what you already have written/created that might be made more open (writing, teaching materials, syllabi). 
+
+You might also accumulate resources/links/materials and comment on them, being an information broker. This is a valuable resource. 
+
+Think about what is easy for you. If you can give a three minute lecture on a topic of interest to many people, why not do a quick video and share that on youtube? No need to make this harder than it needs to be. 
+
+
+## An Example of Using Openness {-} 
+You do a talk that is well received and someone asks for your slides. How do you get it to them? 
+
+The easiest response is to send them an email with the slides as an attachment. But what happens if you change the slides in the future? What happens if they want to share this with other people? Should they? Do they have to ask for permission to do so? Do you want to be responding to emails from people asking to use your slides?  
+
+Another idea is you could share this slide via google docs or a cloud based system like Dropbox. This allows them to have the slides and you to have the same slides. Changes/typos etc. can be updated. Permissions can be granted. You can control who sees it. 
+
+Let's go a bit further, if one person wants these slides, surely someone might want to see them too - how might you share your slides more broadly?
+
+- Personal websites
+- GitHub/GitLabs (think of these as libraries that contain - multiple versions of code or data as it's being built) 
+- Video of talk
+- Twitter
+- [Slideshare](https://www.slideshare.net) 
+
+Openness is a continuum between full privacy and openness.  
+You are on that continuum when you think about how to share slides from a talk you gave. 
+
+- Do you send an email with an attachment? 
+- Do you give them a google docs/dropbox link? 
+- Do you put the video on your personal website? 
+- How do you inform them of what they can do with your work?  
+
+The idea of openness is to champion a choice to put things into the open so that more people can see, respond and be included in the creation and use of information and materials online. 
+
+**You always get to choose how you want to be open** and of course there are tradeoffs with openness.  
+ 
+ ### Three Open Practices {-}
+- **Design:** Make contextual, deliberate decisions about how and when to be open
+- **Build:** Create structures and systems that ensure clarity and process-based management
+- **Empower:** Model leadership skills that sustain themselves and contributors. 
+
+ 
+### Benefits of Openness  {-}
+[Drawn from Weller](https://medium.com/open-knowledge-in-he/advantages-disadvantages-of-openness-bb9790c06c1b) 
+
+- Altruism - It's good to share knowledge. 
+- Some argue this makes work environments [more inclusive and kinder.](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)  
+- Efficiency - When working on hard problems, sharing knowledge and progress makes the larger project easier.  
+This is a key argument for scientists to use open methods [For instance Openscapes](https://www.openscapes.org/) particularly in large scale research that requires a lot of researchers: e.g. genomic work, climate change, environmental science.  
+- Information Dissemination - You can share information and others can build upon it and use it. 
+- Participation and Collaboration - Bringing more participants into the work can make the work better and enable more ideas.
+- [Disrupts the isolation](https://workopen.org/listening-to-the-edges/) of the work we do and make sure the work we do is aligned with what we're about.
+- Models a new way of leading - [Rookwood Institute](https://rockwoodleadership.org/category/blog/library/)  
+- You get feedback and can iterate towards better outcomes. 
+- Increases your profile - Your name is connected to this topic via search engine optimization. When people search for [topic], your name is attached.  
+- With open licensing, people know what they can/cannot do with your intellectual property. 
+
+### Drawbacks of Openness  {-}
+
+- You may not trust everyone with this material and need aspects to be private. 
+- Monitoring Sometimes putting things online can equate to a demand to respond to topics or to be available. Being able to respond to what matters to you vs. what you are asked to respond to.   
+- It takes time/energy to establish and maintain an online identity.  
+- Downsides around openness online - Trolls/aggressive behavior. Particularly salient for POC/women and gender minorities and if you do work about sexism, harassment, etc.
+- Also includes challenges with privacy that can come with being publicly online.  
+- For academics we can sometimes struggle with doing things perfectly. While you always choose what to put out, it may also be a challenge to receive feedback publicly. 
+
+## Open Licensing {-}
+
+Most common of the open licenses which can be used for any kind of media is called [Creative Commons](https://creativecommons.org/). 
+
+You always retain the copyright of your work. Licensing is a way of telling people what they can and cannot do with what you create. For people who are interested in sharing and disseminating knowledge and information, licences like Creative Commons make it easier to inform someone of what they can and cannot do with what you have created. 
+
+Essentially, you're telling people that within certain bounds, they can do things with your (or your organization's) creations. 
+
+[Creative Commons](https://creativecommons.org/) has several licenses you can use:
+*Please take a look at the website for more information on each of these licenses. The descriptions below are quoted directly from the CC website*
+
+- **Attribution - CC BY **- This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials. 
+- **Attribution - Share Alike - CC BY SA** - This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.
+- **Attribution No Derivs - CC BY-ND** - This license lets others reuse the work for any purpose, including commercially; however, it cannot be shared with others in adapted form, and credit must be provided to you. 
+- **Attribution - Non Commerical - CC BY NC **- This license lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms. 
+- **Attribution - Non Commercial - Share Alike - CC BY-NC-SA** - This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
+- **Attribution - Non Commercial No Derivs - CC BY-NC-ND** - This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.  
+Open licenses still allow you to retain the copyright, but it gives direction to the public as to how they can and cannot use the materials you provide. 
+
+
+### Notes about Openness {-}
+
+- Trust is an important part of openness, it's ok to choose who you are open with. 
+- Open Licenses **do not mean giving up your intellectual property or your rights of ownership to the material**. It means you are giving a license that is clear that folks can use it within the parameters you set. 
+
+
+## Resources {-}
+
+- [Getting Started on Academic Twitter](https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451) - Lee Skallerup Bessette 
+- [Strengths Finder: Clifton Strengths Assessment](https://www.gallup.com/cliftonstrengths/en/home.aspx) This can help you define your skills/strengths  
+- [Dr Katie Linder](https://www.drkatielinder.com/) - Tons of resources. For exploring options outside of academia, especially for those looking to “make a thing,” her podcast Make Your Way with Dr. Langworthy his helpful. She also offers “freebies” regarding planning projects, time management, etc
+- [Slack Academic Writing group](dissertatingtogether.slack.com)
+- [Yoga with Adrienne](https://www.youtube.com/watch?v=74pEruTqAz0) on why she gives away most of her yoga videos and content for free. 
+
+

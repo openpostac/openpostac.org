@@ -1,0 +1,108 @@
+---
+title: "03-TranslatingSkills"
+output: html_document
+---
+
+# Translating Academic Skills {-}
+
+- What skills do we already posess? 
+- How can we translate these skills into new fields?
+- What is the language we can use to talk about our skills? 
+
+
+## Skills most academics have: {-}
+*This section is entirely from [History in High Heels](http://historyinhighheels.com/2017/10/translating-academic-skills-into-workplace-skills/)* 
+
+- We can read and write about complicated topics. 
+- We have research skills and we can draw from a wide variety of sources and we can analyze the validity of those sources. 
+- We work independently on complicated and difficult problems. 
+- We know how to take feedback/criticism. 
+- We can manage intense workloads.
+- We are analytical "but we have to be creative in order to craft a persuasive argument."
+- We know how to work with a diverse range of people in a classroom. 
+- We solve problems. 
+
+**More things we can do:**
+
+- Epic attention to detail
+- Able to pick out what’s important to do and what’s less important that I don’t have time to do
+- Extraordinarily accountable (responsible) for our words/arguments/ideas
+- Balancing the interests/needs of multiple stakeholders
+- Selling myself and my work as useful and insightful and knowing how to put value to our work/skills outside of academia 
+- We can deal with legal confidentiality requirements,  navigate bureaucracy, and legal/quasi-judicial proceedings
+- We can give constructive feedback
+- We can lead/motivate teams (students)
+- We know how to learn effectively and how to think deeply on topics
+- Multi-purposing: doing research, that we repurpose for teaching, both of which inform our service and community work
+
+
+
+## Advice on Translating Skills {-}
+I'm going to summarize a few of the different pockets of advice that I've seen on translating skills (with citations if you want to dive in more) for people with a PhD. 
+
+### Understand Your Skills {-}
+
+- One starting place is [to make a list of what you like to do](https://www.themuse.com/advice/transferable-skills-phd-nonacademic-job) and then figure out what skills you use to do that.  
+- Knowing what you're good at and what you like doing is a key part of this. [Skills Inventory](https://docs.google.com/document/d/1-DVrgNxl6jQK86vM1Kx8xJ50DfoCW9W7ylBvJhs_ycA/edit?usp=sharing)  
+- Understanding Conditions for Your Post Ac Career can help here too - you might be good at something but not be interested in doing it for a job or doing it in some industries might not meet your conditions.   
+
+### Who Needs Skills You Have? {-}
+
+- This is not something you're likely to know without research, you have to dig. 
+- Ask questions of people in informational interviews "What field needs people who ____" 
+- Consider talking to people in the same job but in different industries too - this can be quite different (e.g. a UX researcher in health care vs. one in technology, or finance). - If no one knows what you're talking about, try shifting the words that you're using a bit. Talk about the skill using different language. 
+- What industries are out there? Look at the [BLS - Bureau of Labor Statistics](https://www.bls.gov/careeroutlook/2018/article/work-that-suits-you.htm) [See also](https://www.bls.gov/ors/) 
+
+### Learn the Jargon {-}
+- [What's the jargon?](https://www.theguardian.com/higher-education-network/blog/2014/jan/10/researchers-developing-transferable-skills) Make a list. Then define those terms for yourself and see if you can reframe your work in light of that jargon. 
+- For instance, UX jargon include: Insights, pain point, persona, breadcrumbs, wire frame, prototype, card sorting, iteration, journey, A/B testing etc. I didn't know these terms when I started. But as someone who knows how to do research, I can ask questions, study and figure out what they're talking about. 
+- Hot tip: you can ask this on social media "Hey UX researchers, anyone want to give me a good definition of wire framing? I'd be curious to see some really great case studies too."
+- You can also google "Jargon [JOB]" it's surprisingly effective.  
+- Once you know the jargon, you can do the work of translating your skills to their terms.
+- My examples: I discovered insights in my white paper which helped a nonprofit determine the journey of a key stakeholder. I'm skilled at using data to create insights. I'm capable of using a wide variety of tools such as interviewing, focus groups, persona development, cardsorts and A/B testing to get data driven insights that are useful. 
+- **Here's the crux.** If you know how to use the jargon terms in your new field, you can determine if things you've done in the past are similar and can show your capacity to do that thing. EVEN IF YOU HAVE NOT DONE IT YET. 
+- What have you done that demonstrates that you are capable of ____? 
+- It drives me BATTY to hear academics tell me they have no leadership skillsIf you have taught a class, chaired a committee/department or first authored a group paper you are someone who has leadership skills.
+
+YOU have to do the translation work and explain how that means you're capable of leading a team/department etc. 
+Show evidence that you can do what an employer is asking for. 
+
+### Show Don't Tell {-}
+
+Share your skills and abilities by demonstrating what you can do instead of telling them you have the skills. 
+
+- "I have excellent managerial skills" vs. "Coordinated a brand new study abroad program for 16 students in a second language. Included travel to historical sites, volunteer placement and teaching advanced coursework. "
+- If you don't have evidence, what can you do that will show that you can do this? 
+- Include your volunteer work!  
+- Independent projects that demonstrate your knowledge (this works well for tech and very specific subject matter expertise) 
+- Job or project shadowing - sometimes you can work with someone for less money or no money so that you can gain experience. 
+- Don't underestimate the power of curiosity and inquiry. You may not know how to do something, but being the person who asks the beginner question in an intelligent and enthusiastic way is actually a great way to make friends and get to know folks in the industry. 
+
+## Setting Conditions {-}
+It can be helpful to set conditions for yourself in the kind of work you want to do next. Considering what your needs and desires are, is a part of finding work that makes sense for you. [I wrote a piece on this if you'd like to read more.](https://medium.com/@bduckles/setting-conditions-for-your-post-ac-career-418c1beb2e7c) 
+
+**Make four lists:**
+
+1) What are my Must Have’s? — What do you absolutely want? What are you are going for? 
+2) What will I Not Tolerate? — What are your deal breakers? If you see this, you’re out.
+3) What would be Nice to Have? — You’ll be fine without these things, but in a dream world, you’d love to have it.
+4) What will I Accept? — This isn’t exactly what you want but you’ll make it work if it’s there.
+
+*Side note that if you're transitioning from a toxic environment, I strongly recommend spending some time on #2. Deciding that you will not tolerate certain kinds of behaviors and that you'll look for certain indicators of the orientation of a new work environment can go a long way towards reestablishing for yourself a sense of safety.* 
+
+## Translating your CV into a Resume {-}
+My .02 is that you should set aside your CV when writing a resume and do the resume in response to a job ad. Write a resume that will help you land a job you want. 
+
+- [So What are You Going to Do with That?](https://www.amazon.com/What-Are-You-Going-That/dp/0374526214) This is my favorite book on the topic, they go into quite a bit of depth on the topic.
+- [Career Education](https://www.careereducation.columbia.edu/resources/converting-your-cv-resume) - Columbia University A nice discussion of the differences and how to make the transition. 
+- [Converting a CV to Resume](https://icc.ucdavis.edu/materials/resume/cv/convertingcv) - UC Davis - What I like about this is that it encourages you to consider using a functional combination vs. a chronological format resume. Worth considering if you're wanting to share your skills that may come from a variety of settings. 
+- [Inside Higher Ed](https://www.insidehighered.com/blogs/gradhacker/resumes-translation) Tailor the resume to the job you want. Describe the experiences you're using to support your skills. Minimize academic conventions. 
+
+
+## Resources {-}
+- [Translating your Skills from Academia into Business](https://career-advice.jobs.ac.uk/academic/translating-your-skills-from-academia-into-business/)
+- [PhD Transferable Skills](https://careercenter.umich.edu/article/phd-transferable-skills) 
+- [Designing Your Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321/ref=asc_df_1101875321/?tag=hyprod-20&linkCode=df0&hvadid=312025907421&hvpos=&hvnetw=g&hvrand=5212980853206838327&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9006861&hvtargid=pla-433516710851&psc=1)"One of the big takeaways is that there are many ways to have a good life, and that we should think iteratively and with a bias to action" There's also a [website](https://designingyour.life/)
+- What Color is your Parachute - Flower Exercise 
+- If you're interested in Project management, [this website can help](https://www.wrike.com/project-management-guide/) with language and jargon 
+

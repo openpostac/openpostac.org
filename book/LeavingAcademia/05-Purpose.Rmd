@@ -1,0 +1,88 @@
+---
+title: "05-Purpose"
+output: html_document
+---
+
+# Finding Purpose and Meaning {-}
+
+- What problems need solving? 
+- What matters to me?
+- What are the pain points we can see in the world around us?
+- How can we help? 
+
+
+## What matters? {-}
+
+One of the things I've noticed and heard from others leaving academia is a sense of missing purpose and meaning. For me, it's helpful to remind myself of what really matters to me, to return to the things that I value. 
+
+I'd like you to take a few minutes to write on your own about this. The point is to give ourselves time to just let the fingers fly/pen go about what REALLY matters to us now. 
+
+Go wherever this makes sense for you right now. If it's deep and profound, that's great. If it's about the cat on your lap or the cup of coffee next to you, that's great too. There's no judgement here. 
+
+*What really matters to you?*  
+
+## Problem Solving and Meaning {-}
+The ability to solve problems, to work on tricky questions and to deal with complexity is something most academics are really capable of. Yet when it comes to our own personal transitions, it's much harder to solve our own problems. 
+
+We might consider:  
+
+- What problems are we interested in working on? 
+- What problems seem to us worth solving? 
+- How might we use the skills we have in service to problems that exist in the world? 
+
+This does not have to be entirely altruistic or on the other end of the spectrum entirely profit driven. Different sectors frame this in different ways:
+
+- Nonprofits are interested in the problem of changing a social condition, or better providing services to those who need them. 
+- Government is looking to use taxpayer dollars wisely, do the work for the common good and to serve the public. They are solving problems from trash collection to income taxes to international relationships. 
+- Industry wants to solve "pain points" for users or fill market niches or to give their shareholder earnings. They are interested in solving diverse problems like curing cancer, getting food to eat, how to communicate with others, travel and even solving boredom. 
+- Social benefit organizations are looking to make a profit and to make a difference. They want to mix and match so that they can both socially benefit society and make money for shareholders. 
+- Education is solving the problem of a lack of knowledge and a need to be skilled. 
+
+These industries are essentially all doing the same thing which is to look for solutions to problems. What happens if we reverse engineer this and say: *What problems do I want to be working on?*
+
+Another approach is to look at the stakeholders - or people who care what happens regarding a particular problem and for whom the approach and outcome of the problem solving matters.  Which stakeholders do I want to support? Who do I want to help? 
+
+*For instance, I like hanging out with people who have PhD's, one of the reasons I created the Athenas and the Open Post Acs Mentorship Program* 
+
+The university did this work for us when we were inside the institution. We were told that we were teaching for our students and that we were supporting their growth and development as humans. We worked within a field where there were certain kinds of problems we were encouraged to approach. 
+
+> What would it look like to ask ourselves what we WANT to work on?
+
+## Design Thinking {-}
+I'm going to share a design thinking mindset around meaning and purpose. 
+
+[Design thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) is an approach to problem solving that focuses on 
+
+- Empathy (thinking about what the people with the problem are facing) 
+- Ideation (generating a lot of ideas) and 
+- Experimentation (trying stuff out). 
+
+Generally design thinkers have 
+
+- Curiosity towards problems
+- Flexibility about process and outcome
+- A bias towards action
+
+
+This might be useful for us as we try to figure out next steps. A book called [Designing your Life](http://designingyour.life/) is a good starting place, where the authors take design thinking and ask you to apply it to your life and where you're headed next. A few of the provocations in there are interesting to consider as we look towards what we might do next and what matters to us. 
+
+- In discussing "feeling stuck" they advocate generating a lot of ideas and never settling on the first ideas you think of. What this does is to force you into a more flexible mindset around how to solve problems. You aren't "stuck" with one solution, you start to envision multiple solutions. 
+- The book also asks you to consider what things you do in your life that recharge your energy and those things you do that detract from your energy. They have exercises to help determine what recharges you and what detracts for you.  
+
+*What would it be like to do more of the things that recharge your energy and less of those which take from it? *
+
+- In one chapter, they suggest coming up with three separate future paths for yourself that you would very much like to have. Essentially allowing yourself to ideate on what your future might look like. 
+- Then taking those three possible paths, consider what it might look like for the next five years in each one. 
+- Their approach to job seeking, making decisions and "failure" are also very much worth investigating. 
+
+Design thinking asks you to calibrate based on the things you value and to work to get past your blocks by thinking up a lot of ideas and trying things out. 
+
+
+
+## Resources {-}
+
+- There's the idea of Multi potentiates - or people who have multiple interests. [How To Be Everything](http://howtobeeverything.com/)
+[Business Model Canvas](https://www.businessmodelsinc.com/about-bmi/books/business-model-generation/): Useful for thinking through a business model and the kinds of problems and how you'd solve them from a business or an entrepreneurship standpoint. 
+- You may have heard already of the idea of a [flow state](https://www.psychologytoday.com/us/articles/199707/finding-flow), driven by research from a psychologist named Csikszentmihalyi. One way to understand flow state is it happens when you lose track of time. More thoughts on [how to get to a flow state](https://zenhabits.net/guide-to-achieving-flow-and-happiness-in-your-work/). It can be helpful to think through what puts you into flow state as a way of thinking about what you might do next.  
+- Also for small businesses: [Small Business Development Centers](https://www.sba.gov/local-assistance/find/?type=Small%20Business%20Development%20Center&pageNumber=1) are all over the country, and offer free consulting services on everything from financials to marketing, plus classes, networking events, etc. 
+

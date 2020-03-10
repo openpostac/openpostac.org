@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -312,12 +300,9 @@ $(document).ready(function () {
 <p><img src="images/BD_FLAME_Header.jpg" width="700px"></p>
 <p>This website is an introduction to OPA - the Open Post Academic Mentorship Program which is incubated through the <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/">Mozilla Open Leaders program</a>.</p>
 <center>
-The first cohort of the program is launching in January 2020.
+The first cohort of the program has launched in January 2020.
 </center>
-<center>
-<strong>Applications have closed.</strong>
-</center>
-<p><br> Make sure you’re on the <a href="https://mailchi.mp/2932ae7328f2/opa">mailing list</a> to receive updates about the program!</p>
+<p><br> Make sure you’re on the <a href="https://mailchi.mp/2932ae7328f2/opa">mailing list</a> to receive updates about the program! That’s the best way to keep posted about future cohorts.</p>
 <div id="purpose" class="section level3">
 <h3>Purpose</h3>
 <p>To empower people with a PhD to share their knowledge and skills more openly.</p>
@@ -373,6 +358,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

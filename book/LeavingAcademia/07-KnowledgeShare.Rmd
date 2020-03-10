@@ -1,0 +1,205 @@
+---
+title: "07-KnowledgeShare"
+output: html_document
+---
+
+# Knowledge Sharing {-}
+
+- What tools do we have to share our knowledge?
+- What could we develop that would help us find more ways to share our knowledge?
+- What does scholarship and being a scholar look like outside of the academy? 
+
+
+## Scholarship Outside of the Academy {-} 
+
+One key fear I hear from folks who are worried about leaving academia is that they really don't want to lose their institutional affiliation and their library access. 
+
+I get it. It feels like a lifeline for scholars to be connected to the information we've always had. That said, I think it underscores the larger problems we have in the academy around isolation and keeping people away from the deep knowledge. 
+
+We are not exiles, we are still researchers and scholars. So how can we continue to be connected to the knowledge and to contribute to knowledge? 
+ 
+Below are a series of assorted resources to help you find the way forward. [Library access](https://chrome.google.com/webstore/detail/library-access/hghakoefmnkhamdhenpbogkeopjlkpoa?hl=en) without institutional affiliation is hard to get. [Research Access is a challenge](https://www.historians.org/publications-and-directories/perspectives-on-history/september-2018/locked-out-research-access-as-a-challenge-for-the-discipline). 
+
+### Direct Library Access {-} 
+
+- Some Universities will allow Alumni to access their library system. It's worth at least asking the alumni association for your alma mater, particularly if they're doing a capital campaign, you can push them towards letting you have access.  
+- [JSTOR allows access for some Alumni](https://support.jstor.org/hc/en-us/articles/115004760428-Alumni-access-to-JSTOR)
+- Alums from the University of California System [can get library cards](http://web.archive.org/web/20160908181922/http://www.lib.berkeley.edu/information/alumni)
+- Check out your local public universities and local colleges and request access as a community member. These can sometimes be inexpensive, but usually they also will at least allow you to browse books and databases. 
+- Public libraries are getting more and more digital, make sure you check in to your local library as well, while they may not have all of the journals you might want, they may have access to inter library loan books or even ebooks of texts you might want. 
+
+Some association memberships will also give you library access: 
+- [Organization of American Historians (OAH)](https://www.oah.org/membership/benefits/)  
+- [American Academy of Religion](https://www.aarweb.org/) offers some access.
+- [National Coalition of Independent Scholars (NCIS)](https://www.ncis.org/) provides access at a reduced cost to Jstor to members
+
+### Workarounds {-}
+Some communities will enable informal journal article swaps or peer exchanges. 
+- Several groups I am involved with such as the [AAAS Alumni groups](https://www.aaaspolicyfellowships.org/home) regularly allow one another to circulate requests for pdfs of journal articles among those who still have access to university journal databases. 
+- Consider requesting such pdfs from people you know who are still with institutions. 
+- The hashtag #icanhazpdf on Twitter will help you get articles. 
+- You can also email the author and see if they'd be willing to send it to you. They probably want you to read (and cite!) their article.   
+
+### University Affiliation {-}
+
+- Network with your nearby universities and see if they might be willing to let you affiliate with the university in exchange for speaking to a class, delivering a brown bag lecture or otherwise contributing to the intellectual community. 
+> Words you can use to describe this: visiting scholar, designated campus colleague, research affiliate, research assistant professor.
+
+- It's mostly about paperwork and connections to people who will sponsor you to do this work. If you know someone who trusts you at a university it makes it easier. 
+- If you belonged to a research group during your PhD, your supervisor might have the ability to continue your library access through affiliation. 
+- This can be an easy request to add on to existing adjunct work. "I will do this one class if you will give me research affiliation for the next academic calendar" 
+- Some people I know take the cheapest “informal class” offered by the large local public university, as this gives them student access to the library resources.
+- Check alternative education opportunities such as community colleges or even underground universities such as [Portland Underground Graduate Studies](https://www.pugspdx.com/). 
+
+
+### Open Access {-}
+
+Open Access and the Open movement as a whole has been key in helping to create more access for researchers outside of academic environments. 
+
+Open projects highlight the benefit of openness as a mindset. If we believe that all people should be able to have access to information, as many folks in library and academic circles do, why would we limit access to knowledge? 
+
+- [SPARC - Scholarly Publishing and Academic Resources Coalition](https://sparcopen.org/)  "Open Access is the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment. Open Access ensures that anyone can access and use these results - to turn ideas into industries and breakthroughs into better lives." 
+- [What is Open Access](https://opensource.com/resources/what-open-access)?  "Open access refers to the practice of making peer-reviewed scholarly research and literature freely available to anyone interested in reading it."
+- [FANTASTIC explanation in cartoon format from PHD comics](https://www.youtube.com/watch?v=L5rVH1KGBCY)
+- PLOS - [Why Open Access](https://www.plos.org/open-access/)? 
+
+
+
+### Subject Repositories {-}
+
+These are a growing way for researchers to share their emerging projects and data. I've also found that it's a great way to share my mostly baked but not accepted papers that I don't want to leave languishing on my hard drive. 
+
+- [SocARXIV](https://socopen.org/papers/) - The [sociology open archive](https://osf.io/preprints/socarxiv/), you can see [my](https://osf.io/preprints/socarxiv/ejqfd/) two [papers](https://osf.io/preprints/socarxiv/6q8cn/) if you'd like an idea of what it looks like.  
+- [Humanities Commons](https://hcommons.org/) - Includes scholarship and teaching materials
+Original [arXiv.org](https://arxiv.org/) - for physics, math, biology, stats etc. 
+- [Directory of Open Access Repositories (DOAR)](https://v2.sherpa.ac.uk/opendoar/) 
+- [Directory of Open Access Journals (DOAJ)](http://www.doaj.org/)
+- [Registry of Open Access Repositories (ROAR)](http://roar.eprints.org/)
+- [CORE - Collection of Open Access Research Papers](https://core.ac.uk/)
+- [PhilPapers](https://philpapers.org) post and pre/un-print
+
+
+### Books & Online Libraries {-}
+
+- [Open Library](https://openlibrary.org/) - "Our goal is to provide a page on the web for every book ever published." 
+- [Internet Archive](https://archive.org/) - "a nonprofit library of millions of free books, movies, software, music, websites and more. 
+- [Project Gutenberg](http://www.gutenberg.org/)- "A library of over 60,000 free eBooks"
+- [Hathi Trust](https://www.hathitrust.org/) - Books and digitized titles online 
+
+### Museums {-}
+There are museums who are [sharing their images with the world openly](https://creativelawcenter.com/museums-open-access-images/)  
+
+- [Smithsonian](https://www.si.edu/openaccess) 
+- [National Gallery of Art](https://images.nga.gov/en/page/show_home_page.html)
+
+
+### More Resources {-}
+- [Chronicle Vitae](https://chroniclevitae.com/news/1274-resources-for-the-academic-solo-artist) article on Resources for the Academic Solo Artist  
+- [Researcher Without a Library - Jake Orlowitz](https://medium.com/a-wikipedia-librarian/youre-a-researcher-without-a-library-what-do-you-do-6811a30373cd) 
+- This is a nice layout of the [Swedish open data center](https://snd.gu.se/en)
+- Google Scholar(https://scholar.google.com/) - Surprisingly good at linking to OA resources when they're available.  
+- Use [Research Gate](https://www.researchgate.net/) or [Academia.edu](https://www.academia.edu/) to contact researchers and ask them directly for their work.
+- [Wiki Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+
+
+### Independent Scholars? {-}
+Should we reconsider the phrase ["Independent Scholar"](https://www.chronicle.com/article/Stop-Calling-Me-Independent/241376)? What if we were to refer to ourselves instead as "Scholars" or simply people who practice in our field?
+
+> "Outside of academe, this terminology makes no sense. There are no "independent lawyers" or "independent businesswomen," because what would that even mean? They are simply lawyers and businesswomen, whether they work for themselves, for small firms, or large corporations." -  [(The Chronicle of Higher Education)](https://www.chronicle.com/article/Stop-Calling-Me-Independent/241376)
+
+I sometimes refer to myself as a social scientist and a researcher. There is no reason I need to identify by a lack of affiliation, I've still got a degree in sociology. 
+
+Some like the idea of being a “public scholar” because it shows that you want to serve the public.
+
+#### Resources for Independent Scholars {-} 
+
+- [National Coalition of Independent Scholars](https://www.ncis.org/) - I'm not a member, but there may be resources here that are useful. - Being a member gives you access to Jstor at reduced cost, and $600 grant funding for selected researchers 
+- [Canadian Academy of Independent Scholars](https://t.co/clwBxqeAQn) offers library access and small grants. 
+
+
+
+
+## Media for Post Academics {-}
+We crowdsourced ideas for the kind of media environments that are interesting, engaging and which have a lean towards academic minded conversations. 
+
+You could use this list to find interesting reading, think about new ideas or as places to pitch your writing or start up your twitter follow list! 
+
+### Magazines {-}
+
+- [The Atlantic](https://www.theatlantic.com/) 
+- [The American Conservative](https://www.theamericanconservative.com/) 
+- [The Conversation](https://theconversation.com/us)
+- [The Cut](https://www.thecut.com/)
+- [The Dispatch](https://www.the-dispatch.com/) 
+- [Gay Magazine](https://gay.medium.com/)
+- [Hakai magazine](https://www.hakaimagazine.com/)
+- [Jacobin magazine](https://jacobinmag.com/) 
+- [Logic Magazine](https://logicmag.io)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Made in China Journal](https://madeinchinajournal.com/)
+- [The Narwhal (online)](https://thenarwhal.ca/) 
+- [New York Magazine](https://nymag.com/), 
+- [New York Times Magazine](https://www.nytimes.com/section/magazine) 
+- [The New Yorker](https://www.newyorker.com/magazine)
+- [Psychologytoday.com](https://www.psychologytoday.com/)
+- [Sapiens](https://www.sapiens.org/)
+- [Syndicate](https://syndicate.network/)
+- [thirteen.org](https://www.thirteen.org/)
+- [The Tyee online magazine](https://thetyee.ca/) 
+- [Wired](https://www.wired.com/) 
+
+### News Outlets {-}
+
+- [Al Jazeera News](https://www.aljazeera.com/)
+- [BBC News](https://www.bbc.com/news) is great as well. 
+- [Pew Research Center](https://www.pewresearch.org/)
+- [Euronews](https://www.euronews.com/)
+- [South China Morning Post](https:https://www.scmp.com/)
+
+### Podcasts  {-}
+
+- [A Way With Words:](https://www.waywordradio.org/)“the show about language and how we use it” 
+- [Design Matters](https://designobserver.com/podcast-design-matters.php)
+- [In the Thick podcast](https://www.inthethick.org/) with [Maria Hinojosa](https://twitter.com/Maria_Hinojosa) and [Julio Varela](https://twitter.com/julito77). They offer insights into current events from a Latino and intersectional perspective. 
+- [Intelligence Matters](https://open.spotify.com/show/5REGIacamp72nJvZIUzn2q)
+- [Jared Diamond](http://www.jareddiamond.org/Jared_Diamond/Welcome.html)
+- [The Knowledge Project](https://fs.blog/the-knowledge-project/). A really nice podcast. The host is good at the art of conversation. 
+- [Malcolm Gladwell’s Revisionist History podcast](http://revisionisthistory.com/) 
+- [On Being](https://onbeing.org/) 
+- [Polyvagal Podcast](https://open.spotify.com/show/6TbuyYAaySmj3jXFgYHk3Y) 
+- [Reply All](https://gimletmedia.com/reply-all).
+- [Secret Feminist Agenda](https://secretfeministagenda.com/) by [Hannah McGregor](https://twitter.com/hkpmcgregor) [Killjoy’s Survival Kit](https://secretfeministagenda.com/2019/04/26/episode-3-27-killjoy-survival-kits/)” a la [Sara Ahmed](https://www.saranahmed.com/) 
+- [West Wing Thing - Podcast](https://allthingscomedy.com/podcast/west-wing-thing) = Critical analysis of politics of the [West Wing show](https://www.nbc.com/the-west-wing) and the liberal nostalgia it created.
+- [Yuval Noah Harari](https://www.ynharari.com/)
+
+### Twitter People {-}
+
+- [Tressie McMillian Cottom](https://twitter.com/tressiemcphd) 
+- [Ashley C. Ford](https://twitter.com/iSmashFizzle) 
+- [Roxane Gay](https://twitter.com/rgay)
+- [Garth Greenwell](https://twitter.com/GarthGreenwell) 
+- [N.K. Jemesin](https://twitter.com/nkjemisin)
+- [Porochista Khakpour](https://twitter.com/PKhakpour), 
+- [Lisa Munro](https://twitter.com/llmunro)
+- [Avigail Oren](https://twitter.com/HistorianOren)
+- [Shea Serrano](https://twitter.com/SheaSerrano)
+- [Brandon Taylor](https://twitter.com/BTunplugged) 
+
+### Facebook Groups {-}
+
+- [Archaeology Uncovered](https://www.facebook.com/groups/302913993667019/), 
+- [Humans of New York](https://www.facebook.com/humansofnewyork/) 
+- [Humans of Bombay](https://www.facebook.com/humansofbombay/)
+- [Rethinking Pacific Island Research](https://www.facebook.com/RethinkingPacificIslandResearch/) 
+
+### Other Media {-}
+
+- [I F-ing love science](https://www.iflscience.com/)
+- [Inside Higher Ed Blog](https://www.insidehighered.com/blogs/university-venus)
+- [Medium](https://medium.com/)
+- [New York Public Library](https://www.nypl.org/)
+- [Philadelphia Public Library](https://www.freelibrary.org/)
+- [Politics and Prose website](https://www.politics-prose.com/)
+- [The Chronicle of Higher Ed](https://www.chronicle.com/article/You-Want-to-Write-for-the/247829?cid=rclink) has a series on how to write for publics
+- [Vimeo.com](https://vimeo.com/)

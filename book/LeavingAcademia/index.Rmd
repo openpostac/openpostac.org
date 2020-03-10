@@ -1,0 +1,56 @@
+---
+title: "Leaving the Academy: Resources from Open Post Academics"
+author: "Beth M. Duckles and OPA Contributors"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Welcome to Open Post Academics {-} 
+This is a set of resources that collected during the [Open Post Academics Mentorship Program](https://openpostac.org/) a program designed to support people with a PhD who are considering leaving academia. 
+
+It's drawn from the notes that we used in the workshops and is supplemented with as many resources and links as the participants could find. We're almost certainly missing resources and links. 
+
+There are exercises as well which may support you if you're someone with a PhD who is considering leaving the academy. 
+
+**This is not a perfect document.** Please help improve this document by sharing resources and materials that have helped you. 
+
+## Purpose and Objectives  {-}
+Purpose: To empower people with a PhD to share their knowledge and skills more openly.
+
+**Objectives**
+
+- To expand the network of participants to more people outside of academia
+- For participants to understand their skill set and how to apply those abilities to projects outside of academia.
+- To create a project that shares those skills openly.
+
+
+## Contributing {-}
+
+Please contribute resources, materials, feedback about books/articles/resources, ideas for assignments, or any other thoughts you have. Contributions invited by emailing openpostacs@gmail.com or submitting a GitHub issue.  
+
+I reserve the right to edit for clarity and content. My goal is to make sure that the document makes sense. If I do not include your writing/quote/wording it is not personal. I may believe the same thing has been said elsewhere or I might not have gotten to it yet. Please be patient. I am one person, and this is a labor of love.
+
+
+## License  {-}
+
+This work is licensed under a [Creative Commons Attribution International 4.0 License.](https://creativecommons.org/licenses/by/4.0/) 
+
+This means that you are free to share, copy, adapt or remix this material, to use it in places where you think it might be beneficial. 
+
+You must attribute the writing to this project (cite your sources!), you must also link to this license and to indicate if you have made changes. 
+
+Use common sense with what you read here and in the resources we share with you. Everyone is different. What works for me might not work for you. We don't take any responsibility for your choices.  
+
+We would also really appreciate hearing what you do with this if you do end up using it! 
+
+
+## Authorship {-}
+The was written, edited and is maintained by [Beth M. Duckles](https://github.com/bduckles) with help from the OPA particpants, mentors and experts. Opinions are mine unless they are in quotations.
+
+
+
+
+

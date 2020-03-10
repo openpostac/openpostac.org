@@ -1,0 +1,241 @@
+---
+title: "08-Appendices"
+output: html_document
+---
+# Appendices {-}
+
+## 1) Quit Lit {-}
+
+### General Quit Lit {-}
+- [Ahmed, Sarah - "Speaking Out"](https://feministkilljoys.com/2016/06/02/speaking-out/) 
+- [Baker, Kelly J. "On Quitting"]( http://www.kellyjbaker.com/on-quitting/) - - [Garber, Megan. "The Rise of Quit Lit" - Atlantic](https://www.theatlantic.com/entertainment/archive/2015/09/dont-quit-your-day-job/404671/) 
+- [Schuman, Rebecca "Thesis Hatement" - Slate](http://www.slate.com/articles/life/culturebox/2013/04/there_are_no_academic_jobs_and_getting_a_ph_d_will_make_you_into_a_horrible.html)
+- [Bartram, Erin - "The Sublimated Grief of the Left Behind"](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/) She talks about what the profession loses when people quit.
+- [Lee, Oliver - "I have one of the best jobs in Academia. Here's why I'm walking away" - Vox](%20https://www.vox.com/2015/9/8/9261531/professor-quitting-job) 
+- [Conditionally Accepted, "Dear Department, I Quit."](%20https://conditionallyaccepted.com/2015/06/16/quit/)
+- [Lomax, Tamura "Black Women's Lives Don't Matter in Academia Either or Why I Quit Academic Spaces that Don't Value Back Women's Life"](https://thefeministwire.com/2015/05/black-womens-lives-dont-matter-in-academia-either-or-why-i-quit-academic-spaces-that-dont-value-black-womens-life/)  
+- [Harbin, Alison - "Why I Left Academia Part I & II"](%20https://www.allisonharbin.com/post-phd/why-i-left-academia-part-1) - 
+- [Dunn, Sydni - "Why So Many Academics Quit and Tell"](https://chroniclevitae.com/news/216-why-so-many-academics-quit-and-tell) 
+- JC - "From Grad School To Happiness" has four pieces that each explored a specific reason for their departure. [Reason I'm Leaving #1: Geographic Constraints"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-1-geographic.html) [Reason I'm Leaving #2: I Hate My Research"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-2-i-hate-my-research.html) [Reason I'm Leaving #3: I Deserve Free Time"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-3-i-deserve-free-time.html) [Reason I'm Leaving #4: My Mental Health](http://leavingacademia.blogspot.com/2011/05/reason-im-leaving-4-my-mental-health.html)
+- [Wanchisen, Barbara - "There's No Shame in Leaving Academia"]( http://www.sciencemag.org/careers/2018/05/theres-no-shame-leaving-academia) 
+- [Kruger, Phillip "Why It's Not  a 'Failure' to  Leave Academia"](https://www.nature.com/articles/d41586-018-05838-y)
+- For more, see the list of pieces in a Google Doc: ["Quit Lit: The Vitae List"](%20https://docs.google.com/spreadsheets/d/1OODoiZKeAtiGiI3IAONCspryCHWo5Yw9xkQzkRntuMU/edit#gid=0) 
+
+### Critiques of the Academy {-}
+
+- [Armstrong, Elizabeth and Laura T. Hamilton - "Paying for the Party: How College Maintains Inequality"](https://www.amazon.com/Paying-Party-College-Maintains-Inequality/dp/0674088026/ref=pd_sim_14_22?_encoding=UTF8&pd_rd_i=0674088026&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5)
+- [Arum, Richard and Josipa Roska, "Academically Adrift: Limited Learning on College Campuses](https://www.amazon.com/Academically-Adrift-Limited-Learning-Campuses/dp/0226028569/ref=pd_sim_14_20?_encoding=UTF8&pd_rd_i=0226028569&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5) 
+- [Cottom, Tressie McMillan - "Lower Ed: The Troubling Rise of For Profit Colleges in the New Economy](https://www.amazon.com/gp/product/162097438X/ref=dbs_a_def_rwt_bibl_vppi_i0) 
+- [Dews, CL - "This Fine Place So Far from Home: Voices of Academics from the Working Class"](https://www.amazon.com/This-Fine-Place-Far-Home/dp/1566392918) 
+- [Goldrick-Rab, Sara - "Paying the Price: College Costs, Financial Aid and the Betrayal of the American Dream"](https://www.amazon.com/Paying-Price-Financial-Betrayal-American/dp/022652714X/ref=pd_sim_14_35?_encoding=UTF8&pd_rd_i=022652714X&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5) 
+- [Romm, Robin - "Double Bind: Women on Ambition"](https://www.amazon.com/Double-Bind-Ambition-Robin-Romm/dp/163149418X?keywords=Double+Bind%3A+Women+on+Ambition&qid=1539040615&s=Books&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
+
+### Power and Privilege {-}
+
+- [Deresiewicz, William - "Excellent Sheep"](http://www.billderesiewicz.com/books/excellent-sheep)  A critique of the education system that asks what higher education should be training students for. 
+- [Khan, Shamus - "Privilege: The Making of an Adolescent Elite at St. Paul's School"](https://www.amazon.com/Privilege-Adolescent-Princeton-Cultural-Sociology/dp/0691156239/) A book that describes how students at an elite private school encode their privilege onto their bodies during the course of their elite education.  
+- [Diamond, Julie - "Power: A User's Guide"](http://juliediamond.net/) Diamond starts with the idea that each person has power and the task is learning how to use it and work with it. She works with a number of guidelines and describes how to cultivate your own use of power in a way that enables you to see your blind spots and to do your work. 
+
+
+## 2) Human Homework {-}
+
+Leaving the academy is a huge life shift and as the child of two psychologists (yes I know), I strongly encourage post acacadmics to do what my mom used to call your human homework. 
+
+Human homework is the act of finding some way to honestly reflect on and work with any kind of dissonance or disruption within yourself. It often involves truth telling about challenging experiences you've had and walking through the stories you've told and the emotions that resulted.
+
+It is not avoiding what happened, or pretending it didn't happen or trying to numb out. It is facing ourselves. 
+
+We never really finish doing our human homework, so this isn't something you accomplish (although maybe enlightened people are done? I don't know - I'm not enlightened). 
+
+For most, human homework is a set of questions, or a way to respond to emotions when you're facing tough times. It's about being deeply honest with ourselves about experiences that called into conflict our core ideas about the way the world works and what we are doing here.
+
+> There are about as many ways to do human homework as there are people in the world. 
+
+When you're going through transitions this kind of work is vital because we are usually experiencing some sort of disruption in who we are, what we do, what we have to offer. 
+
+There can be very real, very important reasons why you might not want to face all of this emotional work. Not the least of which is that you have deep trauma or childhood pains. **Please be gentle with yourself and get support if you need it** Trust yourself when something feels too delicate to approach. 
+
+### Blocks for Academics{-}
+
+One of the biggest imepdements to doing this work for people leaving academic positions is that many of us who are making these big transitions are also going through financial challenges at the same time. 
+
+It's can be very hard to do deep emotional work on yourself when you don't have any money. Heck the scarcity of not having money ITSELF can more deeply aggravate the emotional challenges you're facing. 
+
+This is entirely real, you're not making this up and I'm sorry if that's where you are right now. 
+
+You CAN do human homework without it costing money. There are a ton of resources below, go to the library and look through the books you see until one of them speaks to you and *do the exercises in the book*. 
+
+Consider also that there are places that have resources for you even if you don't have money. Consider asking for a price break because of economic hardship. Consider modalities where you can work with students or interns who are learning and can still give you quality care. Ask for help when you need it. 
+
+Another block for many academics, is the capacity to turn our very well-honed critical lenses onto the whole idea of doing any work on ourselves at all. In fields where we pride ourselves on being unbiased, looking at our inner landscape can be frightening and deeply challenging to our core beliefs. We may out of hand reject anything that is not scientifically based. We may see reject something out of hand because it contains something we judge to be "nonsense". If you are an atheist or agnostic, you may find any mention of a higher power, God or even meditation or religion to be offputting. 
+
+In fields where there is a belief that a "good" practitioner in the field has already dealt with these things, there can be a block to being someone who has to do more work or to trying something that is not sanctioned by your field. You might have opinions around subfields or authors, you might be resistant to something a colleague has dismissed. You may also have beliefs around what people would think of you if they knew you were doing your human homework.  
+
+>This is all resistance. 
+
+I believe that ALL people need to do their human homework. All of us need to take time to investigate challenging experiences, to reaffirm our core beliefs and to heal from disruptive events. I don't think it matters what you do, but I do think it helps to move towards being a whole human. 
+
+## Human Homework Resources {-}
+
+To that end, I've compiled a list of resources as a starting place. Some of these may intrigue you, while others may turn you off. Just find the resources or methods that make sense to you and work with those. 
+
+If you have other suggestions of resources for doing your human homework please contribute them.  
+
+
+### Academics Doing Human Homework {-}
+
+- [Brene Brown](https://brenebrown.com/) Brene Brown is a professor of social work at UT Austin who did a [TEDx talk that went viral](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) about the power of vulnerability. She has a [follow up talk about listening to shame ](https://www.ted.com/talks/brene_brown_listening_to_shame) and has written several books based on her research. Among them are [Rising Strong](https://www.amazon.com/Rising-Strong-Ability-Transforms-Parent-ebook/dp/B00P5557G2/ref=sr_1_1?ie=UTF8&qid=1534878505&sr=8-1&keywords=rising+strong), [Daring Greatly](https://www.amazon.com/gp/product/1592408419/ref=dbs_a_def_rwt_bibl_vppi_i1) and the [Gifts of Imperfection](https://www.amazon.com/gp/product/159285849X/ref=dbs_a_def_rwt_bibl_vppi_i0).  
+- [Kristen Neff](http://self-compassion.org/) Her book on [Self-Compassion](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself-ebook/dp/B004JN1DBO/ref=sr_1_3?s=books&ie=UTF8&qid=1534958798&sr=1-3&keywords=Self+Compassion) works with existing research and explores how to cultivate and create practices of self-compassion in your life. Her website includes meditations and training programs. 
+- [Parker Palmer and the Center for Courage and Renewal](http://www.couragerenewal.org/) A former academic, Parker writes about his experiences and share insights from the Quaker tradition and his time with the retreat center Pendle Hill. His books include [Let Your Life Speak](https://www.amazon.com/dp/B001C34LL8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [A Hidden Wholeness](https://www.amazon.com/gp/product/B0029U1RGA/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3). He works with the Center for Courage and Renewal to create retreats and other seminars and his books focus on connecting to your purpose in life.  
+- [Martha Beck](https://marthabeck.com/) Martha is a former academic who has written memoirs, self help books and has created a tribe of people who are focused on finding direction. Among her books: [Finding Your Own North Star](https://www.amazon.com/Finding-Your-Own-North-Star-ebook/dp/B0019O6IXE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1534958698&sr=1-1&keywords=martha+beck), [Steering By Starlight](https://www.amazon.com/gp/product/1605298646/ref=dbs_a_def_rwt_bibl_vppi_i2), [Finding Your Way in a Wild New World](https://www.amazon.com/gp/product/1451624603/ref=dbs_a_def_rwt_bibl_vppi_i1).
+- [Viktor Frankl's](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) book "A Man's Search for Meaning" is written by a psychologist, chronicling his experiences in Auchwitz and how he came out of that experience to find meaning in his life. 
+
+### Books and Programs {-}
+
+- [The Sedona Method](https://www.sedona.com/Home.asp) The Sedona Method is a technique of asking a sequence of questions that encourages the practitioner to "let go" of whatever emotions they are feeling in the moment. The technique is simple, but the book traces a number of ways to integrate this into one's life. 
+- [Byron Katie](http://thework.com/en) engages in what she calls  "The Work" which asks the participant to engage with their experiences in the world and ask questions about what they believe to tell the truth. The basics of working with her method are freely available on her website as are videos of her working with people.  
+- [Transitions: Making Sense of Life's Changes  ](https://www.amazon.com/dp/B004ZY23TS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - a book by William Bridges on making transitions in life.  
+- ["Uncertainty: Turning Fear and Doubt into Fuel For Brilliance](http://www.jonathanfields.com/) a book by Jonathan Fields 
+- [Nonviolent Communication: A Language of Life: Life Changing Tools for Healthy Relationships](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4/ref=sr_1_2?crid=9E3QBMVXHK39&keywords=nonviolent+communication&qid=1583799541&s=digital-text&sprefix=nonviole%2Cdigital-text%2C224&sr=1-2) By Marshall Rosenberg, a book on communication.  
+- [The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth](https://www.amazon.com/Road-Less-Traveled-Psychology-Traditional-ebook/dp/B0078XGEK2/ref=sr_1_2?crid=2SP2ZC3UDCEGA&keywords=the+road+less+traveled&qid=1583799418&s=digital-text&sprefix=the+road+less+trave%2Cdigital-text%2C212&sr=1-2) - A classic book by M. Scott Peck. 
+
+
+### Specifically for Women {-}
+- [Tara Mohr](https://www.taramohr.com/) is a woman who became frustrated with how many women in her life were not doing what they most wanted to do and were "playing small" in their lives. She created a book and subsequent workshops and online programs to help women. her work is called [Playing Big](https://www.taramohr.com/the-playing-big-book/).  
+- [The Dance of Anger: A Woman's Guide to Changing the Pattern of Intimate Relationships](https://www.harrietlerner.com/) a book by Harriet Lerner 
+
+
+### Meditation and Bodywork {-}
+- [Pema Chodron](https://pemachodronfoundation.org/) -Buddhist nun, author and teacher who has written books about dealing with difficult emotions.  
+- ["The Power of Meditation: A 28 Day Program - Sharon Saltzberg](https://www.sharonsalzberg.com/)
+- [Adyashanti](https://www.adyashanti.org/) - A spiritual teacher who has written books on meditation and has been featured on podcasts and more. 
+- [Hakomi Method](http://hakomiinstitute.com/) - Mindful Somatic Psychology 
+- [Wendy Palmer](http://www.leadershipembodiment.com/) is an Aikido teacher and leadership consultant who works on how to embody the principles of the nonviolent martial art in working with others. 
+
+
+
+## 3) Structural Issues in the Academy {-}
+
+Below I've listed a  variety of topics I've seen talked about in Quit Lit and Post Academic circles. The purpose of this is to encourage you to think through the many types of structural issues that folks face in the academy as they relate to your story. 
+
+What resonates for you? What was true in terms of your experience? And what is missing from this list?
+
+- Academic precarity and economic instability 
+- The contingent labor market and low-paid adjunct positions
+- Not enough tenure track jobs and the competition for tenure track positions
+- Academia is not right for me
+- Academia is right for me but I didn't get a job
+- Academia is right for me but I hate teaching 
+- Unfair teaching burdens 
+- Student apathy 
+- Student entitlement 
+- Unprepared students
+- Broken K-12 System 
+- Rise of student as customer
+- Rise of online education
+- Increased student tuition
+- Student loan bloat
+- The broken hiring process
+- The broken tenure process
+- The broken academic publishing process
+- Decreased university funding
+- Increased higher education administration
+- Low faculty salaries
+- Declining funding for research
+- The declining liberal arts
+- Anti-intellectualism
+- Classism
+- Geographic isolation
+- Loneliness
+- Grief
+- The "two body" problem
+- Raising a child
+- Raising a child with special needs
+- Having small children
+- Incompatible careers
+- Family illness
+- Divorce
+- Institutional racism 
+- Everyday racism
+- Microaggressions
+- Mental illness 
+- Workaholism
+- Institutional sexism
+- Everyday sexism
+- Sexual harrassment
+- Sexual assault
+- Assault
+- Verbal abuse
+- Gaslighting
+- Institutional inertia and unwillingness to address complex issues
+- Unequal emotional labor workload 
+- Illegal behavior
+- Institutional politics and infighting
+- Sabotage
+- The trap of post doctoral positions
+- The trap of visiting assistant positions
+- The trap of adjuncting
+- Dropping out of a Ph.D program
+- The desire to do work that matters
+- The desire to do manual work 
+- The desire to have a life outside of academia
+
+
+## 4) Job Seeking Resources {-} 
+
+### Academics {-} 
+- [So What Are You Going To Do With That? - Susan Basalla](https://www.amazon.com/What-Are-You-Going-That/dp/0374526214)
+- [The Professor is In - Karen Kelsky](http://theprofessorisin.com/buy-the-book/)
+- [Jobs on Toast](http://jobsontoast.com/)
+- [Versatile Ph.D.](https://versatilephd.com/)
+
+### Offbeat Job Searching {-}  
+- [Born for This: How to Find the Work You Were Meant to Do - Chris Guillibeau](https://bornforthisbook.com/)
+- [How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When they Grow Up](https://www.harpercollins.com/9780062566652/how-to-be-everything/)
+- [Leap: Leaving a Job with No Plan B to Find the Career and Life You Really Want - Tess Vigeland](https://www.tessvigeland.com/)
+- [Working Identity: Unconventional Strategies for Reinventing your Career - Herminia Ibarra](https://herminiaibarra.com/books/)
+- [The Art of Nonconformity - Chris Guillibeau](https://chrisguillebeau.com) 
+- [Weird in a World That's Not: A Career Guide for Misfits, F*ckups, and Failures by Jennifer Romolini](https://www.harpercollins.com/9780062472724/weird-in-a-world-thats-not/)
+
+
+### Entrepreneurship & Marketing {-} 
+
+- [Company of One](https://pjrvs.com/) - By Paul Jarvis 
+- [Book Yourself Solid](https://www.amazon.com/Book-Yourself-Solid-Reliable-Marketing/dp/0470643471) - By Michael Port
+- [Disrupt Yourself: Putting the Power of Disruptive Innvoation to Work](https://www.amazon.com/Disrupt-Yourself-Putting-Disruptive-Innovation-ebook/dp/B00VQOA26Q) - Whitney Johnson
+- [Consulting and Negotiation](http://www.singlefounder.com/tips-on-negotiating-a-great-consulting-rate/)
+- [$100 Startup](https://www.amazon.com/dp/B0067TGSOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  - Chris Guillibeau
+- [Side Hustle: From Idea to Income in 27 Days](https://sidehustleschool.com/) - Chris Guillibeau  Book and Side Hustle School 
+
+### Articles {-} 
+
+- [Benefits of a Non Linear Career Path](https://medium.com/design-leadership/benefits-of-a-non-linear-design-career-path-d0add49a90c8)
+- [Post Acs are Happier than Academics](https://www.insidehighered.com/news/2017/12/18/study-humanities-and-social-science-phds-working-outside-academe-are-happier-their?utm_source=Inside+Higher+Ed)
+- The concept of [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
+
+
+## 5) Personal Finance Resources {-} 
+
+- [Personal Finance for PhDs ](http://pfforphds.com/)
+- [Mint](https://www.mint.com/) 
+- [You Need a Budget (YNAB)](https://www.youneedabudget.com/)
+- [The Simple Living Forum](http://www.simplelivingforum.net/)
+- [Get Rich Slowly](https://www.getrichslowly.org/) 
+- [Overcoming Underearning - Barbara Stanny](https://www.harpercollins.com/9780061856662/overcoming-underearningtm/) 
+- [Financial Diet - Chelsea Fagan](http://thefinancialdiet.com/author/chelsea-fagan/)
+- [Your Money The Missing Manual - JD Roth](http://shop.oreilly.com/product/9780596809416.do)  
+- [Money Drunk/Money Sober - 90 Days To Financial Freedom by Mark Bryan and Julia Cameron](https://www.penguinrandomhouse.com/books/20308/money-drunkmoney-sober-by-mark-bryan-and-julia-cameron/9780345432650/)
+
+## Being Broke {-}
+
+- [Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them by Joon Madriga](https://www.amazon.com/Rising-Strategies-Broke-At-Risk-Those/dp/151874043X/)
+- [Poorcraft: The Funnybook Fundamentals of Living Well on Less](https://www.amazon.com/dp/B00I9DOSDU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [Hand to Mouth: Living in Bootstrap America  by Linda Tirado](https://www.amazon.com/dp/B00JPR5JA0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
+## Unique Money Perspectives {-}
+
+- [Your Money or Your Life - Vicki Robin and Joe Dominguez](https://yourmoneyoryourlife.com/) The perspectives in this book can change the way you think about money. There is also an internet community of folks who have worked through this book and consider their lives based on these ideas.  
+- [Sacred Economics - Charles Eisenstein](http://sacred-economics.com/) Eisenstein asks us to reconsider the use of money. He questions how we look at the economic system from gift economies to capitalism.  
+
+
