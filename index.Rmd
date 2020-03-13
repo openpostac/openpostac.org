@@ -7,12 +7,14 @@ output:
 <img src="images/BD_FLAME_Header.jpg" width="700px">
 
 
-This website is an introduction to OPA - the Open Post Academic Mentorship Program which is incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/).  
 
-<center>The first cohort of the program has launched in January 2020.</center> 
+<center> **You can find the materials from the first cohort of Open Post Academics in our online book called ["Leaving the Academy: Resources from Open Post Academics"](http://book.openpostac.org/index.html)**</center> 
+
+
+<center> *In this book, we share the information from our curriculum including notes from our calls, the exercises we did (plus a few more add ons) as well as hundreds of links and resources to support people with a PhD who are thinking about leaving academia. We welcome feedback and more resources.* </center> 
 
 <br> 
-Make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about the program! That's the best way to keep posted about future cohorts.   
+If you'd like to hear more about future cohorts, make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about the program! That's the best way to keep posted about what we're up to.   
 
 ### Purpose 
 To empower people with a PhD to share their knowledge and skills more openly. 
@@ -23,13 +25,4 @@ To empower people with a PhD to share their knowledge and skills more openly.
 - To create a project that shares those skills openly. 
 
 
-### Are you interested? 
-If you are interested in supporting the 2020 cohort by sharing your expertise with them, applications are still open for joining our expert pool. These are folks who offer to do informational interviews with OPA participants.  
-
-[Expert Pool](https://forms.gle/2xCpSvxpha3poMJFA)
-
-If you want to be updated about the program, please [sign up to receive updates](https://mailchi.mp/2932ae7328f2/opa). 
-
-Want more information? Some slides we used for the webinar to talk about the pogram are [here.](https://docs.google.com/presentation/d/16uovImiIqoZQmWzfjmc2Npcef5XZ_gd-6Oec65_uZpc/edit?usp=sharing)
-
-[OPA Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub)
+This website is an introduction to OPA - the Open Post Academic Mentorship Program which was incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/). We take our [code of conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub) seriously and request that all who participate in OPA events abide by it. 
