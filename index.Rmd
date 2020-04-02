@@ -14,13 +14,25 @@ output:
 <center> *In this book, we share the information from our curriculum including notes from our calls, the exercises we did (plus a few more add ons) as well as hundreds of links and resources to support people with a PhD who are thinking about leaving academia. We welcome feedback and additional resources.* </center> 
 
 <br> 
-We've started hosting Coffee Chats on Fridays at 12 noon Pacific Standard time (UTC-8) for folks with a Ph.D. to talk and make connections during the challenges of quarantine and social isolation. You are welcome to join us!   
+We've started hosting one hour long Coffee Chats on Fridays at 12 noon Pacific Standard Time (UTC-8) for folks with a Ph.D. to talk and make connections during the challenges of quarantine and social isolation. You are welcome to join us!   
 <br>
 <center> [Register for the Friday, April 3, 2020 Coffee Chat](https://zoom.us/meeting/register/u5Iodu2hrzkpx3-9OEfpv-4rVd6-WOaATQ)</center>
 
+<center> [Register for the Friday, April 10, 2020 Coffee Chat](https://zoom.us/meeting/register/tJQud-6qqTguWkcRhTJfLduJQF5v4-lojQ)</center>
 
-<br> 
-If you'd like to hear more about future cohorts, make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about what we're up to.   
+<center> [Register for the Friday, April 17, 2020 Coffee Chat](https://zoom.us/meeting/register/upwkf--spzstlyS6aXqcvHblyrVhJYjfaA)</center>
+
+<center> [Register for the Friday, April 24, 2020 Coffee Chat](https://zoom.us/meeting/register/v5YofuCoqDMu9OpH9Gx3S2v46UjQgf40gw)</center>
+
+<br>
+
+
+We are also piloting a workshop in the Open Post Academic model called **Money Boundaries for Post Academics** which is designed to talk about an approach to setting boundaries around money with writer and coach [Rae Kess](https://www.raekess.com/). We will discuss why boundaries are so challenging for folks who have spent significant time in an academic setting and strategize on how to set boundaries going forward. 
+
+The workshop begins at 12 noon Pacific Standard Time (UTC -8), will run for 90 minutes and will be free of charge for the pilot version. [Register for the Thursday, April 9, 2020 Money Boundaries for Post Acs Workshop](https://zoom.us/meeting/register/vJApfuCppjwodn_s1ncycvUVmngzVNqNwQ). 
+<br>
+
+If you'd like to hear more about future OPA activities, make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa) to receive updates about what we're up to.   
 
 ### Purpose 
 To empower people with a PhD to share their knowledge and skills more openly. 
@@ -31,4 +43,5 @@ To empower people with a PhD to share their knowledge and skills more openly.
 - To create a project that shares those skills openly. 
 
 
-This website is an introduction to OPA - the Open Post Academic Mentorship Program which was incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/). All participants in our programs agree to abide by our [code of conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub). 
+
+*The Open Post Academic Mentorship Program which was incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/). All participants in our programs agree to abide by our [code of conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub).* 
