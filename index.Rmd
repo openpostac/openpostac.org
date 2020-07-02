@@ -6,74 +6,86 @@ output:
 ---
 <img src="images/BD_FLAME_Header.jpg" width="700px">
 
+<center> *A peer-led community, Open Post Academics is an open and welcoming space to empower people with a Ph.D. to bring their knowledge and expertise to the world.* </center>
 
-
-<center> **Our online book called ["Leaving the Academy: Resources from Open Post Academics"](http://book.openpostac.org/index.html) is now available!!**</center> 
-
-<center> *In this book, we share the information from the first cohort of our Open Post Academic curriculum including notes from our calls, the exercises we did (plus a few more) as well as hundreds of links and resources to support people with a PhD who are thinking about leaving academia. We welcome feedback and additional resources.* </center> 
 <br> 
 
-### Coffee Chats 
-
-We host Coffee Chats on Fridays at 12 noon Pacific Standard Time (UTC-8) for folks to talk and make connections. You are welcome to join us if you are ABD or you have a PhD! Coffee chats are free of charge.   
-<br>
-<center> 
-[Register for the Friday, June 5, 2020 Coffee Chat](https://us02web.zoom.us/meeting/register/tZYld--uqTojEt0ZZ7P7C5_fMV91IekroDwz)
-
-[Register for the Friday, June 12, 2020 Coffee Chat](https://us02web.zoom.us/meeting/register/tZMkd-isqz4vHNWFbF5WAXiEnoJvrqKiw2FW) 
-
-[Register for the Friday, June 19, 2020 Coffee Chat](https://us02web.zoom.us/meeting/register/tZwrdOmvrDkrH9I4kb9_y9ThhA-Nr_iIipd4)
-
-[Register for the Friday, June 26, 2020 Coffee Chat](https://us02web.zoom.us/meeting/register/tZcvf-mrqTwtGdHnHJCvf-tGL3_3vIHGqTtH)
-
-</center>
 <br>
 
 ### Events
 
-Sign up below for the events that you're interested in. Times below are Pacific Standard Time (UTC-8). Folks with a PhD, or who are ABD and who are considering non-academic work are welcome. 
+Please register below for the events that you would like to attend. Folks with a PhD, or who are ABD and who are considering non-academic work are welcome. Events are free of charge. Times below are Pacific Standard Time (UTC-8).
 
 <br>
-**[Naming Academic Toxicity](https://us02web.zoom.us/meeting/register/tZctduuprzIrGtV3zKSXdqYTBmvtqkRKKc8s)** 
-Wednesday, June 17, 2020 (90 minutes) 
+**[How to Get a Job You Want](https://us02web.zoom.us/meeting/register/tZUkfuGhqD8rHtQbEG9QDDeZAlKrUtAHgBcj)** 
 
-*We’ll discuss the impact of academic toxicity for PhDs who leave the academy.* 
+Wednesday, July 8, 2020 - 12:00 p.m. - 1:30 p.m. 
+with Jennifer Polk
 
-Hosted with Borhane (Bo) Blili-Hamelin. Free of charge. 
+**[Networking and Informational Interviews](https://us02web.zoom.us/meeting/register/tZ0vd-mqrDIrE9JbTT4kPk2WyElIvlh3KElN)** 
+
+Wednesday, July 15, 2020 - 12:00 p.m. - 1:30 p.m. 
+with Sandalia Genus 
+
+**[Online Workshop on Online Workshops](https://us02web.zoom.us/meeting/register/tZEuce2qpzwoHtFHCK6k-6WvTGC-OW4yZz7m)** 
+
+Wednesday July 22, 2020 - 12:00 p.m. - 1:30 p.m. 
+with Beth Duckles
+
+**[Community Call](https://us02web.zoom.us/meeting/register/tZ0odOCqqDMuH93cfnZ0BfB99H_f64J7t70Q)** Talk about the future of OPA. 
+
+Wednesday, July 29, 2020 
+12:00 p.m. - 1:00 p.m.  
+
+<br>
+
+### Writing Groups 
+
+**Writing Café**
+
+Monday July 6, 2020: 10:30 a.m. - 1:30 p.m. 
+
+**Structured Writing Community Session** 
+
+Monday, July 13, 2020: 12:00 p.m. - 1:30 p.m. PT
+
+These groups are a chance to write in a group setting. Bring anything you want to work on, from an article you want to write to that email you’ve been putting off. Hosted by Marie-Eve Monette. Free of charge. 
+
+*Writing groups are coordinated on the #writing channel of the OPA Slack and timing is subject to change. [To sign up for the OPA Slack, please fill out this form.](https://forms.gle/nvLoStXH96evQSJM8)* 
 
 <br>
 
-**[Writing Groups for Post Academics](https://forms.gle/nvLoStXH96evQSJM8)** 
-*Time to work on writing in a group setting. Bring anything you want to work on, from an article you want to write to that email you’ve been putting off.* 
+### Coffee Chats 
 
-Informal virtual writing cafés 
-
-* June 4, 2020  (12:00 p.m. - 4:00 p.m. PST)
-* June 18, 2020  (12:00 p.m. - 4:00 p.m. PST)
-
-*Writing groups are coordinated on the #writing channel of the OPA Slack. They are are subject to change.* 
-
-Hosted with Marie-Eve Monette. Free of charge. 
-
-
+We host Coffee Chats on Fridays at 12 noon Pacific Standard Time (UTC-8) for folks to talk and make connections. You are welcome to join us if you are ABD or you have a PhD! Coffee chats are free of charge if you register at the links below.   
 <br>
+<center> 
+[Friday, July 3, 2020](https://us02web.zoom.us/meeting/register/tZMrcu-srTIuEtIBpDEEYRyuWJAeHGOtcDyq)
+
+[Friday, July 10, 2020](https://us02web.zoom.us/meeting/register/tZwudOGrqD8jHNbLiPRMccCk5F6OcDCp59Ce) 
+
+[Friday, July 17, 2020](https://us02web.zoom.us/meeting/register/tZMrdeGuqD4vEtKSEvAkjmwsUW4JpZE3Lfly)
+
+[Friday, July 24, 2020](https://us02web.zoom.us/meeting/register/tZwkd--hrDMtG9Yx3-CbxoqjwUO1XsBcbhkW)
+
+[Friday, July 31, 2020](https://us02web.zoom.us/meeting/register/tZUrfuuprjMvE9RABMX1R-C2-cHo-1iqfNHP)
+ 
+</center>
+
+<br> 
+
+
 
 ### Mailing List
 
-Keep up with OPA events and activities by making sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa).   
+If you'd like to know what we're up to, make sure you're on the [mailing list](https://mailchi.mp/2932ae7328f2/opa).   
 
 <br>
 
-### Purpose 
-To empower people with a PhD to share their knowledge and skills more openly. 
+### Resources for Post Academics
+**Our online book called ["Leaving the Academy: Resources from Open Post Academics"](http://book.openpostac.org/index.html) is openly available.** 
 
-<br>
-
-### Objectives 
-
-- To expand the network of participants to more people outside of academia. 
-- For participants to understand their skill set and how to apply those abilities to projects outside of academia.
-- To create a project that shares those skills openly. 
+In this book, we share hundreds of resources, links and suggestions that have helped. It outlines the OPA curriculum including notes from our calls and the exercises we did. If you need support as you're thinking about leaving academia it's a helpful place to start. We welcome feedback and additional resources. 
 
 <br>
 
