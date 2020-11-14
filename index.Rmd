@@ -10,42 +10,21 @@ output:
 
 <br> 
 
-<br>
+### Upcoming Events and Coffee Chats 
 
-### Events
+We host workshops and conversations about topics relevant to Post Academics. If you're ABD or have a PhD, you are welcome to join us. 
 
-Please register below for the events that you would like to attend. Folks with a PhD, or who are ABD and who are considering non-academic work are welcome. 
+We also host Coffee Chats on Fridays at 12 noon Pacific Standard Time (UTC-8) as a relaxed way for folks to talk to other post acs and make connections. Events are free of charge and a great way to connect to the OPA community. 
 
-Events are free of charge. Times below are Pacific Standard Time (UTC-8).
-
-<br>
-
-
-**[Faciliating Workshops Online](https://www.mixily.com/event/1431830136344459424)** on Wednesday, October 14th 12:00 p.m. - 1:30 p.m. 
-with Beth M. Duckles
-
-**[Four Metaphors for Leaving the Academy](https://www.mixily.com/event/2829588080876587148)** on Wednesday, October 21st 12:00 p.m. - 1:30 p.m. 
-with Beth M. Duckles
-
-**[How to Actually Leave the Academy ](https://www.mixily.com/event/8257150390244623322)**on Wednesday, November 4th 12:00 p.m. - 1:30 p.m. 
+**[Sign up for our upcoming events and coffee chats](https://www.mixily.com/listing/12405727515612781)**  
 
 <br>
 
 ### Writing Groups 
 
-
-**Writing Sessions** 
 These groups are a chance to write in a group setting. Bring anything you want to work on, from an article you want to write to that email you’ve been putting off. Free of charge. 
 
 *Writing groups are coordinated on the #writing channel of the OPA Slack and timing is subject to change. [To sign up for the OPA Slack, please fill out this form.](https://forms.gle/nvLoStXH96evQSJM8)* 
-
-<br>
-
-### Coffee Chats 
-
-We host Coffee Chats on Fridays at 12 noon Pacific Standard Time (UTC-8) for folks to talk and make connections. Please join us if you have a PhD or are ABD! Coffee chats are free of charge and a great way to connect to the OPA community. 
-
-**[Register for Coffee Chats Here](https://www.mixily.com/listing/12405727515612781)**  
 
 <br>
 
@@ -64,4 +43,4 @@ We welcome feedback and additional resources.
 
 <br>
 
-*The Open Post Academic Mentorship Program which was incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/). All participants in our programs agree to abide by our [Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub).* 
+*The Open Post Academic Mentorship Program was incubated through the [Mozilla Open Leaders program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/participants/). All participants in our programs agree to abide by our [Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSDndyEifMT03KAXBs22KHpFRWOa4Gld5vEOoKdcRmyDzQrrsktelKa1jRf9_JeYrC18cjEvce_i3Ri/pub).* 
